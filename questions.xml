@@ -1,0 +1,1327 @@
+<?xml version='1.0' standalone='yes'?>
+<questions>
+	<question id="1">
+		<text>is~KW dy pihly guru kOx sn? is~K Drm iksny  SurU kIqw ?</text>
+		<answer>gurU nwnk dyv jI</answer>
+	</question>
+	<question id="2">
+		<text>is~KW dy mOjUdw gurU kOx hn?</text>
+		<answer>gurU gRMQ swihb jI</answer>
+	</question>
+	<question id="3">
+		<text>Kwlsy dw ipqw kOx hY?</text>
+		<answer>gurU goibMd isMG jI</answer>
+	</question>
+	<question id="4">
+		<text>Kwlsy dI mwqw kOx hY?</text>
+		<answer>mwqw swihb kOr jI</answer>
+	</question>
+	<question id="5">
+		<text>Kwlsy dI jnm BUmI ik`Qy hY?</text>
+		<answer>sRI AnMdpur swihb</answer>
+	</question>
+	<question id="6">
+		<text>Swihbjwdy kOx sn?</text>
+		<answer>gurU goibMd isMG jI dy pu~qr</answer>
+	</question>
+	<question id="7">
+		<text>swihbjwidAW dy nW d~so?</text>
+		<answer>bwbw AjIq isMG jI
+bwbw juJwr isMG jI
+bwbw zorwvr isMG jI
+bwbw Pqih isMG jI</answer>
+	</question>
+	<question id="8">
+		<text>dsW gurUAW dy nW d~so[</text>
+		<answer>gurU nwnk dyv jI
+gurU AMgd dyv jI
+gurU Amr dws jI
+gurU rwmdws jI
+gurU Arjn dyv jI
+gurU hirgoibMd jI
+gurU hir rwey jI
+gurU hir ikRSn jI
+gurU qyg bhwdr jI
+gurU goibMd isMG jI</answer>
+	</question>
+	<question id="9">
+		<text>pMjW ipAwirAW dy nW d~so[</text>
+		<answer>BweI dieAw isMG jI[
+BweI Drm isMG jI[
+BweI ihMmq isMG jI[
+BweI mohkm isMG jI[
+BweI swihb isMG jI[</answer>
+	</question>
+	<question id="10">
+		<text>Kwlsw pMQ dI swjnw kdoN Aqy ik`Qy hoeI?</text>
+		<answer>30 mwrc 1699 vYswKI vwly idn kysgVH swihb, sRI AnMdpur swihb ivKy</answer>
+	</question>
+	<question id="11">
+		<text>Kwlsw pMQ dI swjnw iksny kIqI?</text>
+		<answer>gurU goibMd isMG jI ny</answer>
+	</question>
+	<question id="12">
+		<text>is~K Sbd dw kI ArQ hY?</text>
+		<answer>cylw, ividAwrQI, murId</answer>
+	</question>
+	<question id="13">
+		<text>isMG Sbd dw kI ArQ hY?</text>
+		<answer>Syr</answer>
+	</question>
+	<question id="14">
+		<text>kOr Sbd dw kI ArQ hY?</text>
+		<answer>SihzwdI, rwjkumwrI</answer>
+	</question>
+	<question id="15">
+		<text>auhnW swihbzwidAW dy nW d`so ijMnW nUM ijauNdy nIhW iv`c icx id~qw igAw[</text>
+		<answer>bwbw zorwvr isMG jI
+bwbw Pqih isMG jI</answer>
+	</question>
+	<question id="16">
+		<text>aus Sihr dw Aqy aus muslmwn dw nW d`so ijsny swihbzwidAW nUM nINhW iv`c icxn dw hukm id~qw</text>
+		<answer>srihMd Sihr iv`c sUbw srihMd vzIr Kwn ny</answer>
+	</question>
+	<question id="17">
+		<text>auhnW swihbzwidAW dy nW d`so ijMnHW ny cmkOr dI jMg iv`c ShIdI pRwpq kIqI[</text>
+		<answer>bwbw AjIq isMG jI
+bwbw juJwr isMG jI</answer>
+	</question>
+	<question id="18">
+		<text>Kwlsy dw jYkwrw kI hY?</text>
+		<answer>jo boly so inhwl, siq sRI Akwl[</answer>
+	</question>
+	<question id="19">
+		<text>Kwlsw dUsry Kwlsy nMU imlx l~igAW kI sMboDn krdw hY?</text>
+		<answer>vwihgurU jI kw Kwlsw, vwihgurU jI kI Pqih[</answer>
+	</question>
+	<question id="20">
+		<text>gurU goibMd isMG jI ny Kwlsw ikauN swijAw?</text>
+		<answer>Kwlsy dI v~KrI pihcwx bxwaux vwsqy[</answer>
+	</question>
+	<question id="21">
+		<text>Kwlsy kol ikhVy pMj kkwrW dw hoxw jrUrI hY?</text>
+		<answer>kys, kMGw, kVw, kCihrw, ikrpwn[</answer>
+	</question>
+	<question id="22">
+		<text>pMQk rihq mirAwdw kdoN hoNd iv`c AweI?</text>
+		<answer>1936[</answer>
+	</question>
+	<question id="23">
+		<text>pMQk rihq mirAwdw nMU Cpwaux dw kMm iks sMsQw ny kIqw?</text>
+		<answer>SromxI gurduAwrw pRbMDk kmytI ny[</answer>
+	</question>
+	<question id="24">
+		<text>pMQk rihq mirAwdw nMU lwgU krwaux dw AiDkwr iks sMsQw nMU hY?</text>
+		<answer>Akwl qKq nMU[</answer>
+	</question>
+	<question id="25">
+		<text>pMQk rihq mirAwdw muqwbk inqnym dIAW ikhVIAW bwxIAW hn?</text>
+		<answer>Svyry - jpujI swihb, jwp swihb, sv~eIey[
+Swm - rihrws (so dru, cOpeI, 6 pauVIAW AnMd swihb)[
+sOx vyly - soihlw[</answer>
+	</question>
+	<question id="26">
+		<text>inqnym dIAW ikhVIAW bwxIAW hn jo dsm gRMQ iv`c drj hn?</text>
+		<answer>jwp swihb, sv~eIey, cOpeI[</answer>
+	</question>
+	<question id="27">
+		<text>Kwlsy leI cwr kurihqW ikhVIAW hn?</text>
+		<answer>kysW dI byAdbI[
+ku~Tw mIt Kwxw[
+prwey mrd jW iesqrI dw sMg krnw[
+qMbwkU jW nSw krnw[</answer>
+	</question>
+	<question id="28">
+		<text>pMjW qKqW dy nW ilKo[</text>
+		<answer>sRI hirmMdr swihb, ptnw-ibhwr
+sRI Akwl qKq swihb, AimRqsr-pMjwb
+sRI kysgVH swihb, AnMdpur-pMjwb
+sRI hzUr swihb, nMdyV-mhWrwStr
+sRI dmdmw swihb, qlvMfI swhbo(biTMfw)-pMjwb</answer>
+	</question>
+	<question id="29">
+		<text>gurmuKI il~pI iksny pRc~ilq kIqI?</text>
+		<answer>gurU AMgd dyv jI ny[</answer>
+	</question>
+	<question id="30">
+		<text>Akwl qKq dy pihly jqydwr kOx sn?</text>
+		<answer>BweI gurdws jI[</answer>
+	</question>
+	<question id="31">
+		<text>Awid gRMQ dI ilKweI iksny kIqI?</text>
+		<answer>gurU Arjn dyv jI ny BweI gurdws jI qoN ilKweI krweI[</answer>
+	</question>
+	<question id="32">
+		<text>Awid gRMQ nMU kI kih ky s~idAw jWdw sI?</text>
+		<answer>poQI swihb jI[</answer>
+	</question>
+	<question id="33">
+		<text>Awid gRMQ dI sMpwdnw kdoN Aqy ik~Qy hoeI?</text>
+		<answer>1604 eIsvI iv`c AMimRqsr ivKy[</answer>
+	</question>
+	<question id="34">
+		<text>drbwr swihb AMimRqsr iv`c sB qoN pihly gRMQI ikhVy sn?</text>
+		<answer>bwbw bu~Fw jI[</answer>
+	</question>
+	<question id="35">
+		<text>Awid gRMQ iv`c ikMny gurUAW dI bwxI sI?</text>
+		<answer>5 gurUAW dI bwxI dy nwl 13 B~tW BgqW Aqy 4 guris~KW dI bwxI vI drz hY[</answer>
+	</question>
+	<question id="36">
+		<text>gurU gRMQ swihb iv`c ikMny gurUAW dI bwxI hY?</text>
+		<answer>6 gurUAW dI (pihly pMj Aqy nOvyN gurU dI)[</answer>
+	</question>
+	<question id="37">
+		<text>gurU gRMQ swihb dI ilKweI iksny kIqI?</text>
+		<answer>gurU gRMQ swihb dI ilKweI BweI mnI isMG koloN gurU goibMd isMG jI ny krweI[</answer>
+	</question>
+	<question id="38">
+		<text>gurU gRMQ swihb iv`c guru goibMd isMG jI ny ikhVI bwxI Swml kIqI?</text>
+		<answer>nOvIN pwqSwhI gurU qyg bhwdr jI dI[</answer>
+	</question>
+	<question id="39">
+		<text>gurU gRMQ swihb dI ilKweI dw kMm ik~Qy hoieAw?</text>
+		<answer>qlvMfI swhbo biTMfy iv`c[</answer>
+	</question>
+	<question id="40">
+		<text>gurU gRMQ swihb dy ikMny pMny hn?</text>
+		<answer>1430[</answer>
+	</question>
+	<question id="41">
+		<text>gurU gRMQ swihb iv`c ikMny rwg hn?</text>
+		<answer>31[</answer>
+	</question>
+	<question id="42">
+		<text>gurU gRMQ swihb nMU gurg~dI kdoN Aqy ik~Qy imlI?</text>
+		<answer>gurU gRMQ swihb nMU gurg~dI 3 AkqUbr 1708 nMU nMdyV ivKy gurU goibMd isMG jI vloN id`qI geI[</answer>
+	</question>
+	<question id="43">
+		<text>gurU gRMQ swihb dI bwxI nMU srb sWJI bwxI ikauN ikhw jWdw hY?</text>
+		<answer>ikauNik gurU gRMQ swihb dI bwxI v~K v~K DrmW nwl sMbMDq BgqW Aqy pIrW PkIrW duAwrw ilKI geI hY[ijsnMU gurUAW dI bwxI dy brwbr dw siqkwr id~qw jWdw hY[ieh iksy iek vrg q`k hI sImq nhIN[</answer>
+	</question>
+	<question id="44">
+		<text>gurU gRMQ swihb dI Asl h`QilKq bIV ik~Qy hY?</text>
+		<answer>krqwrpur iv`c[</answer>
+	</question>
+	<question id="45">
+		<text>is~KW dy ipqw kOx hn?</text>
+		<answer>gurU nwnk dyv jI[</answer>
+	</question>
+	<question id="46">
+		<text>gurU nwnk dyv jI dw pRkwS ik`Qy Aqy kdoN hoieAw?</text>
+		<answer>gurU nwnk dyv jI dw pRkwS 15 ApRYl 1469 nMU rwie Boie dI qlvMfI ivKy hoieAw[</answer>
+	</question>
+	<question id="47">
+		<text>rwie Boie dI qlvMfI nMU A`j klH kI kihMdy hn Aqy ieh ik~Qy siQ~q hY[</text>
+		<answer>rwie Boie dI qlvMfI nMU A`j klH nnkwxw swihb kihMdy hn Aqy ieh pwiksqwn iv`c siQ~q hY[</answer>
+	</question>
+	<question id="48">
+		<text>gurU nwnk dyv jI dy mwqw ipqw dw kI nW sI?</text>
+		<answer>gurU nwnk dyv jI dy mwqw iqRpqw Aqy ipqw mihqw kwlU sn[</answer>
+	</question>
+	<question id="49">
+		<text>gurU nwnk dyv jI dy ikMny BYx Brw sn?</text>
+		<answer>gurU nwnk dyv jI dI isrP ieko BYx sI ijsnMU bIbI nwnkI kihMdy sn[</answer>
+	</question>
+	<question id="50">
+		<text>msMd iks nMU ikhw jWdw sI Aqy ies dI SurUAwq iks ny kIqI?</text>
+		<answer>is~K Drm dy pRcwrk nMU msMd ikhw jWdw sI Aqy ies nUM gurU Amrdws jI ny SUru kIqI sI[</answer>
+	</question>
+	<question id="51">
+		<text>gurU Amrdws jI dy smy ku`l ikMny msMd sI? Aqy auhnWN iv`co iesqrIAW ikMnIAwN sn?</text>
+		<answer>gurU Amrdws jI dy smy ku`l 146 msMd sn ijMnW iv`coN 52 AOrqW sn ijMnW ny kSmIr Aqy A&amp;gwinsqwn dy ielwky iv`c is`KI dw pRcwr kIqw[</answer>
+	</question>
+	<question id="52">
+		<text>gurU Amrdws jI ny prdw pRQw Kqm kIqI[ prdw kI sI?</text>
+		<answer>AOrq dw Awpxy isr Aqy mUMh nUM F`k ky r`Kxw[</answer>
+	</question>
+	<question id="53">
+		<text>sqI pRQw kI sI? iks gurU ny ies nMU Kqm kIqw?</text>
+		<answer>sqI pRQw Anuswr jdo pqI dI mOq ho jWdI sI qW pqnI nUM ijaUNdy jIA pqI dy nwl icKw iv`c jlw id`qw jWdw sI[ ijs nUM gurU Amrdws jI ny Kqm kIqw[</answer>
+	</question>
+	<question id="54">
+		<text>gurU nwnk dyv jI dI supqnI dw kI nW sI?</text>
+		<answer>mwqw sul`KnI jI[</answer>
+	</question>
+	<question id="55">
+		<text>gurU nwnk dyv jI dy sp`uqrW dw kI nW sI?</text>
+		<answer>bwbw sRI cMd jI
+bwbw lKmI dws jI[</answer>
+	</question>
+	<question id="56">
+		<text>aus muslmwn sKS dw nW d`so jo gurU nwnk dyv jI dy nwl swrI aumr irhw Aqy kIrqn dI syvw inBwaudw irhw?</text>
+		<answer>BweI mrdwnw jI[</answer>
+	</question>
+	<question id="57">
+		<text>gurU nwnk dyv jI dIAW cwr mhwn XwqrwvW nUM kI ikhw jWdw hY?</text>
+		<answer>audwsIAwN [</answer>
+	</question>
+	<question id="58">
+		<text>gurU nwnk dyv jI ny cwry XwqrwvW dOrwn ikhVy ikhVy QWvW Aqy gey Aqy audoN ikhVy ikhVy iqauhwr sn?</text>
+		<answer>kwbw Sihr ijsnUM hux m`kw kihMdy hn, h`j krn dy smyN gey [ m`Qrw, bnwrs Aqy sumyr pRbq vI gey[</answer>
+	</question>
+	<question id="59">
+		<text>s`B qoN pihlw gurduAwrw jW DrmSwlw ik`Qy Aqy kdoN SurU kIqw?</text>
+		<answer>sMn 1521 iv`c krqwrpur iv`Ky gurduAwrw bxwieAw ijsnMU DrmSwlw ikhw jWdw sI [</answer>
+	</question>
+	<question id="60">
+		<text>gurU nwnk dyv jI ny Awpxw pihlw pRcwr kyNdr ikhVw bxwieAw?</text>
+		<answer>gurU nwnk dyv jI ny is`KI dw pihlw pRcwr kyNdr (mMjI) BweI lwlo dy Gr nUM bxwieAw [</answer>
+	</question>
+	<question id="61">
+		<text>BweI lwlo kOx sI Aqy ik`Qy dw rihx vwlw sI?</text>
+		<answer>BweI lwlo qrKwx sI jo sYdpur dw rihx vwlw sI[ gurU nwnk dyv jI ny AwpxI audwsI smyN mlk Bwgo  dI dwvq nw mnjUr kr ky BweI lwlo dy Gr Kwxw KwDw sI[</answer>
+	</question>
+	<question id="62">
+		<text>gurU nwnk dyv jI jogIAwN nUM imlx ik`Qy gey sn?</text>
+		<answer>gorKmqw, ijs nUM A`j k`lH nwnkmqw kihMdy hn[</answer>
+	</question>
+	<question id="63">
+		<text>gurU nwnk dyv jI ny ie~Qy jogIAwN nUM kI sm`q bKSI?</text>
+		<answer>gurU nwnk dyv jI ny jogIAwN nUM Awpxy pRvwr qoN bwhr Awky jMglW iv`c r`b l`Bx nUM nkwirAw[</answer>
+	</question>
+	<question id="64">
+		<text>is`DW nUM imlx vwsqy gurU jI ik`Qy gey sn?</text>
+		<answer>kYlwS pRbq, ijs nUM sumyr pRbq vI ikhw jWdw hY [</answer>
+	</question>
+	<question id="65">
+		<text>is`DW nwl hoeI vwrqwlwp nUM iks bwxI nwl jwixAw jWdw hY?</text>
+		<answer>is`D goSit [</answer>
+	</question>
+	<question id="66">
+		<text>cwr audwsIAW smyN gurU nwnk dyv jI hor ikhVy lokW nUM imly ijMnW Awm swKIAW iv`c Xwd kIqw jWdw hY?</text>
+		<answer>kOfw rwKS, s`jx T`g, rwjw iSvnwQ(sRI lMkw dw rwjw) Awidk bhuq lokW nUM s`c dw mwrg idKwieAw ijnHW dIAW swKIAW A~j vI mShUr hn[</answer>
+	</question>
+	<question id="67">
+		<text>aus smyN Bwrq iv`c iks dw rwj sI?</text>
+		<answer>Bwrq iv`c mugl smrwj dw pihlw moFI gurU nwnk dyv jI dw smkwlI sI[ ijs nUM bwbr ikhw jWdw sI[</answer>
+	</question>
+	<question id="68">
+		<text>jdoN bwbr ny pMjwb dy lokW Aqy julm Fwhy qW gurU nwnk dyv jI ny aus smyN nUM klm bMd kIqw aus bwxI dw nwm d`so?</text>
+		<answer>bwbr vwxI[</answer>
+	</question>
+	<question id="69">
+		<text>bwbr ny gurU jI nUM iks jgHw Aqy bMdI bxwieAw?</text>
+		<answer>AYmnwbwd- pwiksqwn iv`c[</answer>
+	</question>
+	<question id="70">
+		<text>gurU jI ny vlI kMDwrI dw hMkwr ik`Qy qoiVAw?</text>
+		<answer>hsn Abdwl ivKy ijs nUM Aj k`l pMjw swihb kihMdy hn[ vlI kMDwrI ny gurU swihb Aqy phwV suitAw sI ijsnUM gurU swihb ny Apny pMjy nwl rok ilAw sI[ auh phwV Aqy gurU swihb dy h`Q dy inSwn A`j vI mOjUd ny[</answer>
+	</question>
+	<question id="71">
+		<text>gurU nwnk dyv jI ny Awpny jIvn kwl iv`c ikhVy duinAwvI kMm kIqy?</text>
+		<answer>vpwr krnw, KyqI krnw, dukwn clwauxI[ ieh auhnW dy jIvn dy ku`J kMm sn[</answer>
+	</question>
+	<question id="72">
+		<text>gurU nwnk dyv jI kdoN Aqy ik`Qy joqI joq smwey?</text>
+		<answer>meI 7, 1539 krqwrpur, pwiksqwn ivKy[</answer>
+	</question>
+	<question id="73">
+		<text>gurU nwnk dyv jI ny iks nUM gurg`dI id~qI?</text>
+		<answer>BweI lihxy nUM- jo ik gurg`dI imlx qoN bwd gurU AMgd dyv jI bxy[</answer>
+	</question>
+	<question id="74">
+		<text>gurU AMgd dyv jI dw jnm kdoN Aqy ik`Qy hoieAw sI?</text>
+		<answer>gurU AMgd dyv jI dw jnm 1504 eI: nUM m~Aqy kI srW, iProzpur, pMjwb iv`Ky hoieAw[</answer>
+	</question>
+	<question id="75">
+		<text>gurU AMgd dyv jI dy mwqw ipqw dw nwm kI sI?</text>
+		<answer>gurU AMgd dyv jI dy ipqw dw nwm BweI &amp;yrU jI Aqy mwqw dw nW dXw kOr sI[</answer>
+	</question>
+	<question id="76">
+		<text>gurU AMgd dyv jI dI supqnI dw kI nW sI?</text>
+		<answer>gurU AMgd dyv jI dI supqnI dw nW mwqw KIvI jI sI[</answer>
+	</question>
+	<question id="77">
+		<text>gurU AMgd dyv jI dy ikMny b`cy sn Aqy auhnW dy nW d`so?</text>
+		<answer>gurU AMgd dyv jI dy 4 b`cy sn: do lVky BweI dwqU jI Aqy BweI dwsU jI , Aqy do lVkIAW sn, bIbI Amro Aqy bIbI AxoKI jI[</answer>
+	</question>
+	<question id="78">
+		<text>gurU AMgd dyv jI nUM gurg~dI kdoN imlI?</text>
+		<answer>1539 eI: iv`c gurU nwnk dyv jI ny krqwrpur iv`Ky Awp jI nUM gurg~dI id`qI[</answer>
+	</question>
+	<question id="79">
+		<text>gurg~dI qoN bwd gurU AMgd dyv jI ikhVy ngr qoN is`KI dw pRcwr krdy rhy?</text>
+		<answer>KfUr swihb qoN[</answer>
+	</question>
+	<question id="80">
+		<text>gurU AMgd dyv jI ny ikhVy ikhVy smwijk suDwr kIqy?</text>
+		<answer>gurU AMgd dyv jI ny sqI pRQw Kqm kIqI, gurmuKI il`pI dw inrmwx kIqw Aqy Drm pRcwr leI mMjIAW dI sQwpnw kIqI ijs iv`c AOrqW nUM vI brwbr dw drjw id`qw igAw [</answer>
+	</question>
+	<question id="81">
+		<text>gurU AMgd dyv jI joqI joq kdoN smwey?</text>
+		<answer>gurU AMgd dyv jI 1552 eI: nUM joqI joq smw gey[</answer>
+	</question>
+	<question id="82">
+		<text>gurU Amrdws jI dw jnm kdoN Aqy ikQy hoieAw ?</text>
+		<answer>gurU Amrdws jI dw jnm 15 meI,1479 eI: nUM ipMf bwsrky izlw AimRMqsr ivKy hoieAw [</answer>
+	</question>
+	<question id="83">
+		<text>gurU Amrdws jI dy mwqw , ipqw dw nwm kI sI  ?</text>
+		<answer>gurU Amrdws jI dy ipqw dw nwm qyz Bwn jI Aqy mwqw dw nwm LKmI jI sI [</answer>
+	</question>
+	<question id="84">
+		<text>gurU Amrdws jI dI pqnI  dw kI nwm sI ?</text>
+		<answer>guRrU Amrdws jI dI pqnI dw nwm  bIbI mnSw dyvI jI sI [</answer>
+	</question>
+	<question id="85">
+		<text>gurU Amrdws jI dy bicAW dy kI nwm sn ?</text>
+		<answer>gurU Amrdws jI dy  4 bcy sn;
+2 lVky ; bwbw mohn jI Aqy bwbw mohrI jI
+2 lVkIAW ;  bIbI  dwnI jI Aqy bIbI BwnI jI [</answer>
+	</question>
+	<question id="86">
+		<text>gurU Amrdws jI ny  ikhVw ngr vswieAw ?</text>
+		<answer>gurU Amrdws jI ny goiNeMdvwl swihb ngr vswieAw [</answer>
+	</question>
+	<question id="87">
+		<text>gurU Amrdws jI ny smwj BlweI dy ikhVy kMm kIqy ?</text>
+		<answer>gurU Amrdws jI ny  zwq pwq nUM Kqm kIqw, lMgr dI iprq pweI ,pIx vwly pwxI leI KuUh lgvwey, ijnHwN ivcoN bwaulI swihb Aj vI mOjUd hY[</answer>
+	</question>
+	<question id="88">
+		<text>gurU Amrdws jI kdoN joqI joq smwey?</text>
+		<answer>gurU Amrdws jI 30 Agsq,1574 eI; nUM goiMeMdvwl ivKy  joqI joq smwey [</answer>
+	</question>
+	<question id="89">
+		<text>gurU Amrdws qoN bwd gurg`dI iks nuUM imlI?</text>
+		<answer>gurU rwmdws jI nUM jo bIbI BwnI jI dy pqI sn[</answer>
+	</question>
+	<question id="90">
+		<text>gurU rwmdws jI dw jnm ik`Qy Aqy kdoN hoieAw?</text>
+		<answer>cUnw mMfI lwhOr, sqMbr 24, 1534[</answer>
+	</question>
+	<question id="91">
+		<text>gurU rwmdws jI dy mwqw ipqw kOx sn?</text>
+		<answer>ipqw BweI hirdws jI Aqy mwqw bIbI AnUp dyvI jI[</answer>
+	</question>
+	<question id="92">
+		<text>gurU rwmdws jI goieMdvwl kI krdy huMdy sn?</text>
+		<answer>GuMgxIAW vycdy huMdy sn[</answer>
+	</question>
+	<question id="93">
+		<text>gurU rwmdws jI dw bcpn dw kI nW sI?</text>
+		<answer>BweI jyTw jI[</answer>
+	</question>
+	<question id="94">
+		<text>gurU rwmdws jI ny Awpxw bhuqw smwN ik`Qy ibqwieAw?</text>
+		<answer>rwmdws pur ijs nUM hux AMimRqsr kihMdy hn[</answer>
+	</question>
+	<question id="95">
+		<text>aus AOrq dw nwN d`so ijs nUM gurU dI bytI, ie`k gurU dI pqnI, ie`k gurU dI mW, dwdI Aqy pVdwdI hox dw mwx pRwpq hY?</text>
+		<answer>bIbI BwnI jI[</answer>
+	</question>
+	<question id="96">
+		<text>gurU rwmdws jI kdoN joqI joq smwey?</text>
+		<answer>sqMbr 1, 1581 nUM goieMdvwl swihb ivKy[</answer>
+	</question>
+	<question id="97">
+		<text>gurU rwmdws jI dy ikMny b`cy sn?</text>
+		<answer>gurU rwmdws jI dy iqMn b`cy sn[ iprQI cMd, mhWdyv Aqy Arjn m`l[</answer>
+	</question>
+	<question id="98">
+		<text>gurU rwmdws qoN bwd kOx gurg`dI Aqy bYTy?</text>
+		<answer>Arjn m`l jo bwd iv`c gurU Arjn dyv jI bxy[</answer>
+	</question>
+	<question id="99">
+		<text>gurU Arjn dyv jI dw jnm ik`Qy Aqy kdoN hoieAw?</text>
+		<answer>gurU Arjn dyv jI dw jnm 1563 eIsvI nUM AMimRqsr ivKy hoieAw[</answer>
+	</question>
+	<question id="100">
+		<text>gurU Arjn dyv jI dy mwqw ipqw dw nW kI sI?</text>
+		<answer>gurU Arjn dyv jI dy ipqw rwmdws jI Aqy mwqw bIbI BwnI jI sn[</answer>
+	</question>
+	<question id="101">
+		<text>gurU Arjn dyv jI dw ivAwh iksdy nwl Aqy ik`Qy hoieAw?</text>
+		<answer>gurU Arjn dyv jI dw ivAwh mwqw gMgw jI nwl ipMf mwho izlHw jlMDr ivKy hoieAw[</answer>
+	</question>
+	<question id="102">
+		<text>gurU Arjn dyv jI dy ikMny b`cy sn Aqy auhnW dy nW kI sn?</text>
+		<answer>gurU Arjn dyv jI dy ie~ko-ie~k spu`qr sn Aqy auhnW dw nW gurU hrgoibMd sI[</answer>
+	</question>
+	<question id="103">
+		<text>gurU Arjn dyv jI nMU ShIdW dy isrqwj ikaNu kihMdy hn?</text>
+		<answer>gurU Arjn dyv jI is`KW dy pihly ShId hoey hn[</answer>
+	</question>
+	<question id="104">
+		<text>gurU Arjn dyv jI nMU ShId iks ny kIqw?</text>
+		<answer>muslmwn hwkm jhWgIr ny[</answer>
+	</question>
+	<question id="105">
+		<text>gurU Arjn dyv jI ny ikhVy ikhVy kMm kIqy?</text>
+		<answer>gurU Arjn dyv jI ny AMimRqsr iv`c drbwr swihb bxwieAw ijs nUM Aj klH hrmMdr swihb AwKdy hn[ kIrqpur Aqy hrgoibMd swihb ngr vswey, qrn qwrn iv`c bjurgW Aqy cmVI dy rogIAW leI AwSrm bxwieAw, lokW leI pwxI dIAW jrUrqW leI KUh lgvwey[ ijnW iv`coN gurU kw KUh, qrn qwrn Aqy Cyhrtw swihb mShUr hY[ ies qoN ielwvw Awp jI ny bhuq swrI bwxI rcI[ bwkI swrIAW bwxIAW nUM ie`kTy kr ky sMpwidq kIqw Aqy poQI swihb dI rcnw kIqI[</answer>
+	</question>
+	<question id="106">
+		<text>poQI swihb iks nUM ikhw jWdw hY?</text>
+		<answer>Awid gRMQ nUM[</answer>
+	</question>
+	<question id="107">
+		<text>BweI gurdws jI kOx sn Aqy auhnW dw gurU Arjn dyv jI nwl kI irSqw sI?</text>
+		<answer>BweI gurdws jI iek bhuq mhwn ivdvwn Aqy ilKwrI sn[ gurU Arjn dyv jI dy mwmy lgdy sn[ bIbI BwnI dy ccyry Brw sn[ krqwrpurI bIV dy ilKwrI sn[</answer>
+	</question>
+	<question id="108">
+		<text>gurU Arjn dyv jI dI ShIdI ik`Qy Aqy kdoN hoeI?</text>
+		<answer>gurU Arjn dyv jI dI ShIdI lhOr ivKy 25 meI 1606 eIsvI nUM hoeI[ au~Qy gurduAwrw fyrw swihb hY jo hux pwiksqwn iv`c hY[</answer>
+	</question>
+	<question id="109">
+		<text>gurU Arjn dyv jI dI ShIdI dy ikhVy mu`K kwrx sn?</text>
+		<answer>gurU Arjn dyv jI dI ShIdI dy hyT ilKy mu`K kwrx sn:
+1. iprQI cMd (gurU swihb dy Brw) dI eIrKw[
+2. cMdU Swh dI lVkI dw hr goibMd nwl irSAqy qoN jvwb dyxw
+3. is`KI dw vDdw pRcwr Aqy prswr muZlW qoN brdwSq nw hoxw[</answer>
+	</question>
+	<question id="110">
+		<text>gurU Arjn dyv jI nUM ik`dW ShId kIqw igAw?</text>
+		<answer>gurU swihb nUM pihlW grmIAW dy idnW iv`c kVkdI Du`p iv`c Bu`Ky Aqy iqhwey r`iKAw igAw[ Pyr q`qI qvI Aqy ibTw ky isr iv`c grm ryq pweI geI[ Aqy AKIr jdoN swrw srIr ClnI igAw qW rwvI ndI iv`c id`qw igAw[</answer>
+	</question>
+	<question id="111">
+		<text>gurU Arjn dyv jI ny AwpxI ShIdI dOrwn is`KW nUM kI aupdyS id`qw?</text>
+		<answer>gurU swihb ny ies mOky Aqy is`KW nUM SWq ic`q rih ky nwm ismrn krn leI ikhw[</answer>
+	</question>
+	<question id="112">
+		<text>q`qI qvI Aqy bYT ky gurU Arjn dyv jI ny ikhVw Sbd aucwirAw?</text>
+		<answer>Aqyrw kIAw mITw lwgY[[ hir nwmu pdwrQu nwnku mWgY[[</answer>
+	</question>
+	<question id="113">
+		<text>gurU Arjn dyv jI ny bwbw bu`Fw Aqy BweI gurdws jI kol hrgoibMd swihb jI nUM kI sunyhw ByijAw?</text>
+		<answer>gurU Arjn dyv jI ny hrgoibMd swihb nUM hlwqW nwl nij`Tx leI BgqI nwl SkqI r`Kx Aqy sMq ispwhI bxn leI ikhw[</answer>
+	</question>
+	<question id="114">
+		<text>gurU Arjn dyv jI dI ShIdI qoN bwAd iks nUM gurg`dI imlI?</text>
+		<answer>gurU Arjn dyv jI dI ShIdI qoN bwAd gurU hirgoibMd swihb nUM gurg`dI Aqy ibTwieAw igAw[</answer>
+	</question>
+	<question id="115">
+		<text>bwkI gurUAW nwloN gurU hirgoibMd swihb nUM imlx iv`c kI v`fw &amp;rk sI?</text>
+		<answer>gurU nwnk dyv jI qoN bwAd bwkI cwr gurUAW nUM auhnW qoN pihly vwly gurUAW v`loN Awpxy ijENdy jI gurg`dI dw iqlk lgwieAw igAw[ pr gurU Arjn dyv jI dI ShIdI qoN bwAd gurg`dI dw it`kw lwieAw igAw[ pihly pMj gurUAW nUM bwxI, nwrIAl, Aqy pMj pYsy Dr ky gurg`dI dI rsm kIqI jWdI sI, pr gurU hirgoibMd swihb nUM do qlvwrW mIrI Aqy pIrI vI pihnweIAW geIAW[</answer>
+	</question>
+	<question id="116">
+		<text>gurU hirgoibMd swihb nUM gurg`dI dw it`kw iksny lwieAw?</text>
+		<answer>gurU hirgoibMd swihb nUM gurg`dI dw it`kw bwbw bu`Fw jI ny lwieAw[</answer>
+	</question>
+	<question id="117">
+		<text>gurU hirgoibMd swihb jI dw jnm kdoN Aqy ik`Qy hoieAw?</text>
+		<answer>gurU hirgoibMd swihb jI dw jnm 1595 eIsvI iv`c gurU kI vfwlI AMimRqsr ivKy hoieAw[</answer>
+	</question>
+	<question id="118">
+		<text>gurU hirgoibMd swihb jI dy mwqw Aqy ipqw jI dw kI nwm sI?</text>
+		<answer>gurU hirgoibMd swihb jI dy mwqw dw nwm mwqw gMgw jI Aqy ipqw nwm gurU Arjn dyv jI sI[</answer>
+	</question>
+	<question id="119">
+		<text>gurU hirgoibMd swihb jI dI pqnI dw kI nwm sI?</text>
+		<answer>gurU hirgoibMd swihb jI dI pqnI dw nwm bIbI nwnkI sI[</answer>
+	</question>
+	<question id="120">
+		<text>gurU hirgoibMd swihb jI dy b`icAW dy nwm d`so[</text>
+		<answer>1. bwbw gurid`qw jI
+2. bwbw sUrj m`l jI
+3. bIbI vIro jI
+4. bwbw At`l rwie jI
+5. bwb AnI rwey jI
+6. bwbw iqAwg m`l jI jo bwAd iv`c gurU qyZ bhwdr bxy</answer>
+	</question>
+	<question id="121">
+		<text>bwbw At`l jI ik~Qy Aqy ikMnI aumr iv`c joqI-joiq smwey?</text>
+		<answer>bwbw At`l jI nON swl dI aumr iv`c AMimRqsr ivKy joqI-joiq smwey[</answer>
+	</question>
+	<question id="122">
+		<text>bwbw At`l jI dI Xwd iv`c jo gurduAwrw auswirAw igAw auh ik`Qy hY, ausdw nW ik hY Aqy auh ikMnw au~cw hY?</text>
+		<answer>ieh gurduAwrw AMimRqsr ivKy At`l swihb dy nW qoN jwixAw jWdw hY Aqy ies dIAW nON mMizlW hn[</answer>
+	</question>
+	<question id="123">
+		<text>gurU hirgoibMd swihb jI v`loN pihnIAW do qlvwrW iks g`l dIAW prqIk hn?</text>
+		<answer>do qlvwrW mIrI Aqy pIrI dIAW prqIk hn[</answer>
+	</question>
+	<question id="124">
+		<text>gurU hirgoibMd swihb jI ny ikhVy iklHy bxvwey?</text>
+		<answer>gurU hirgoibMd swihb jI ny AMimRqsr iv`c ik`lw lohgVH bxvwieAw Aqy Akwl q^q ijsnUM Akwl buMgw ikhw jWdw sI vI bxvwieAw[</answer>
+	</question>
+	<question id="125">
+		<text>gurU hirgoibMd swihb jI ny Akwl q^q kdoN bxvwieAw?</text>
+		<answer>gurU hirgoibMd swihb jI ny Akwl q^q 1609 eIsvI iv`c bxvwieAw[</answer>
+	</question>
+	<question id="126">
+		<text>Akwl q^q dw kI Bwv hY?</text>
+		<answer>Akwl q^q qoN Bwv hY “prmwqmw dI Adwlq”[</answer>
+	</question>
+	<question id="127">
+		<text>muZl Swsk jhWgIr gurU hirgoibMd swihb nUM imlx ik`Qy Aqy ikauN AwieAw?</text>
+		<answer>jhWgIr gurU swihb nUM imlx AMimRqsr ivKy gurU Arjn dyv jI nUM id`Aqy qsIihAW dw pCqwvw krn AwieAw[</answer>
+	</question>
+	<question id="128">
+		<text>auhnW gurU pRymIAW dy nW d`so ijnHw ny gurU hirgoibMd swihb nUM kwbul qoN sBqoN vDIAw nsl dy GoVy Byt kIqy?</text>
+		<answer>bKqr m`l Aqy qwrw cMd[</answer>
+	</question>
+	<question id="129">
+		<text>kwbul qoN AMimRqsr AwauNdy vkq muslmwn hwkm ny GoVy Koh ley, auh ikhVw is`K sI, ijsny iek`ly hI jw ky GoVy lY AWdy?</text>
+		<answer>ibDI cMd CInw, ijsny iek GoVw GwhI bx ky Aqy dUsrw ijEiqSI bx ky Cufw ilAw[</answer>
+	</question>
+	<question id="130">
+		<text>auhnW GoiVAW nUM gurU swihb ny kI nwm id`qw?</text>
+		<answer>gulbwZ Aqy idlbwZ[</answer>
+	</question>
+	<question id="131">
+		<text>ikhVy is`K ny gurU hirgoibMd swihb nUM jpujI swihb dw Su`D pwT srvx krwieAw?</text>
+		<answer>BweI gopwlw jI ny[</answer>
+	</question>
+	<question id="132">
+		<text>gurU hirgoibMd swihb ny muZl hkUmq ivru`D ikMnIAW jMgW lVIAW?</text>
+		<answer>aus qrHW qW gurU swihb dIAW keI CotIAW-motIAW lVweIAW hoeIAW pr muZl hkUmq nwl auhnW dIAW cwr mu`K lVweIAW hoeIAW[</answer>
+	</question>
+	<question id="133">
+		<text>gurU hirgoibMd swihb dI muZl hkUmq nwl pihlI jMg kdoN Aqy ik~Qy hoeI?</text>
+		<answer>sB qoN pihlI jMg jhWgIr dy pu`qr Swh jhwn dy nwl AMimRqsr ivKy 1634 iv`c hoeI[</answer>
+	</question>
+	<question id="134">
+		<text>ieh jMg ikauN mShUr hoeI?</text>
+		<answer>ies jMg iv`c Swh jhwn dy &amp;OjI jrnYl mu^ils ^wn dI gurU hirgoibMd swihb dy h`QoN mOq hoeI[</answer>
+	</question>
+	<question id="135">
+		<text>gurU hirgoibMd swihb ny ikhVy-ikhVy ngr vswey?</text>
+		<answer>gurU hirgoibMd swihb ny kIrqpur swihb Aqy mYhVy ipMf nUM vswieAw[</answer>
+	</question>
+	<question id="136">
+		<text>gurU hirgoibMd swihb dy smyN is`K ieiqhws iv`c kI v`fw moV AwieAw?</text>
+		<answer>gurU hirgoibMd swihb ny SwhI &amp;Oj iqAwr kIqI Aqy SwhI TwT-bwT nwl rwijAW dI qrHW rihxw SurU kIqw[</answer>
+	</question>
+	<question id="137">
+		<text>gurU hirgoibMd swihb joqI-joiq kdoN smwey?</text>
+		<answer>1644 eIsvI iv`c kIrqpur swihb ivKy [</answer>
+	</question>
+	<question id="138">
+		<text>gurU hir rwie jI dw pRkwS kdoN Aqy ik`Qy hoieAw?</text>
+		<answer>1630 eIsvI iv`c kIrqpur swihb ivKy[</answer>
+	</question>
+	<question id="139">
+		<text>gurU hir rwie jI dy ipqw Aqy mwqw kOx sI?</text>
+		<answer>ipqw bwbw gurid`qw jI (gurU hrgoibMd swihb dy pu`qr) Aqy mwqw inhwl kOr jI[</answer>
+	</question>
+	<question id="140">
+		<text>gurU hir rwie jI dy hor ikMny BYx Brw sn?</text>
+		<answer>auhnW dw b`s iek hI Brw sI, bwbw DIr m`l[</answer>
+	</question>
+	<question id="141">
+		<text>gurU hir rwie jI dI pqnI dw kI nwm sI?</text>
+		<answer>bIbI ikRSn kOr jI[</answer>
+	</question>
+	<question id="142">
+		<text>gurU hir rwie jI dy spu`qrW dw kI nwm sI?</text>
+		<answer>rwm rwie Aqy hrikRSn[</answer>
+	</question>
+	<question id="143">
+		<text>gurbwxI dI quk “im`tI muslmwn kI” bdlx kwrn iksnUM gurU Gr iv`coN CyikAw igAw sI?</text>
+		<answer>gurU hir rwie jI ny Awpxy pu`qr rwm rwie nUM bwxI dI quk bdlx krky gurU Gr iv`coN Cyk id`qw[</answer>
+	</question>
+	<question id="144">
+		<text>gurU hir rwie jI gurg`dI Aqy kdoN bYTy?</text>
+		<answer>1644 eIsvI iv`c gurU hrgoibMd jI ny joqI-joiq smwaux qoN pihlW gurU hir rwie jI nUM gurg`dI id`qI[</answer>
+	</question>
+	<question id="145">
+		<text>gurU hrikRSn jI dw pRkwS kdoN Aqy ik`Qy hoieAw?</text>
+		<answer>1656 eIsvI iv`c kIrqpur swihb ivKy[</answer>
+	</question>
+	<question id="146">
+		<text>gurU hrikRSn swihb dy mwqw Aqy ipqw kOx sI?</text>
+		<answer>ipqw gurU hir rwie jI Aqy mwqw bIbI ikSn kOr jI[</answer>
+	</question>
+	<question id="147">
+		<text>gurU hrikRSn swihb nUM kdoN gurg`dI imlI?</text>
+		<answer>1661 iv`c pMj swl dI aumr iv`c gurg`dI au~qy bYTy[</answer>
+	</question>
+	<question id="148">
+		<text>gurU hrikRSn jI id`lI ikauN Awey?</text>
+		<answer>rwjw jY isMG dy s`dy Aqy gurU swihb id`lI Awey Aqy auhnW dy bMgly iv`c Tihry, ij`Qy gurduAwrw bMglw swihb suSoiBq hY[</answer>
+	</question>
+	<question id="149">
+		<text>jdoN gurU hrikRSn jI id`lI phuMcy qW au~Qy ikhVI ibmwrI PYlI hoeI sI?</text>
+		<answer>id`lI iv`c aus vyly cyck dI ibmwrI PYlI hoeI sI Aqy gurU swihb Awp mrIjW dI dyK Bwl krdy rhy[</answer>
+	</question>
+	<question id="150">
+		<text>gurU hrikRSn jI joqI-joiq kdoN smwey?</text>
+		<answer>1664 eIsvI iv`c A`T s`l dI aumr iv`c joqI-joiq smwey[</answer>
+	</question>
+	<question id="151">
+		<text>joqI-joiq smwx qoN pihlW gurU hrikRSn jI ny ikhVy Sbd aucwry?</text>
+		<answer>’’bwbw bkwly’’[</answer>
+	</question>
+	<question id="152">
+		<text>gurU hrikRSn jI dw sskwr ik`Qy kIqw igAw?</text>
+		<answer>id`lI ivKy jmnw ndI dy kMFy, ij`Qy gurduAwrw bwlw swihb hY[</answer>
+	</question>
+	<question id="153">
+		<text>ipMf bkwly iv`c ikMny lok gurg`dI Aqy h`k jmwaux leI phuMc gey?</text>
+		<answer>soFI prvwr dy 22 lok jo Awpxy-Awp nUM msMd kihMdy sn, Agly gurU dw dwAvw krn l`g pey[</answer>
+	</question>
+	<question id="154">
+		<text>gurU qyZ bhwdr nUM s`cw gurU hox dw pRgtwvw iksny kIqw?</text>
+		<answer>BweI m`Kx Swh ny jo iek SwhUkwr sI, ikhw “s`cw gurU lwDo ry”[</answer>
+	</question>
+	<question id="155">
+		<text>gurU qyZ bhwdr dw jnm ik`Qy Aqy kdoN hoieAw?</text>
+		<answer>1621 eIsvI iv`c AMimRqsr ivKy[</answer>
+	</question>
+	<question id="156">
+		<text>gurU qyZ bhwdr dy mwqw Aqy ipqw kOx sI?</text>
+		<answer>ipqw gurU hrgoibMd swihb Aqy mwqw bIbI nwnkI jI sn[</answer>
+	</question>
+	<question id="157">
+		<text>gurU qyZ bhwdr jI dI supqnI dw kI nW hY?</text>
+		<answer>mwqw gujrI jI[</answer>
+	</question>
+	<question id="158">
+		<text>gurU qyZ bhwdr jI dy ikMny b`cy sn Aqy auhnW dy kI nW sI?</text>
+		<answer>gurU qyZ bhwdr jI dy ie`ko-ie`k pu`qr sn ijhnw dw nwm goibMd rwey sI Aqy jo bwAd iv`c gurU goibMd isMG bxy[</answer>
+	</question>
+	<question id="159">
+		<text>gurU qyZ bhwdr nUM gurg`dI imlx qoN bwAd drbwr swihb AMimRqsr dy drSnW qoN iks ny mnw kIqw?</text>
+		<answer>DIrmlIAW ny[</answer>
+	</question>
+	<question id="160">
+		<text>gurU goibMd isMG jI dy jnm vyly gurU qyZ bhwdr jI ik`Qy gey hoey sn?</text>
+		<answer>gurU goibMd isMG jI dy jnm vyly gurU qyZ bhwdr jI Aswm iv`c auQoN dy rwijAW iv`ckwr sulHw krwx gey sn[</answer>
+	</question>
+	<question id="161">
+		<text>ikMny kSmIrI pMifq AOrMgjyb dI iSkwieq lY ky gurU qyZ bhwdr jI kol Awey?</text>
+		<answer>500 kSmIrI pMifq[</answer>
+	</question>
+	<question id="162">
+		<text>auhnW pMifqW dw AwgU kOx sI?</text>
+		<answer>pMifq ikrpw rwm jo gurU goibMd isMG jI dw sMsikRq dw AiDAwpk vI irhw sI[</answer>
+	</question>
+	<question id="163">
+		<text>pMifqW dI pukwr sux ky goibMd rwie ny Awpxy ipqw gurU qyZ bhwdr jI nUM kI ikhw?</text>
+		<answer>goibMd rwie ny gurU qyZ bhwdr nUM pMifqW dI bWh PVn leI ikhw Aqy ikhw ky “Awp nwloN hor v~D Drm-purS ikhVw hovygw”</answer>
+	</question>
+	<question id="164">
+		<text>goibMd rwie dI aus vyly ikMnI aumr sI?</text>
+		<answer>aus vyly goibMd rwie isr&amp; nON swlW dy sI[</answer>
+	</question>
+	<question id="165">
+		<text>hor ikhVy is`K sn jo gurU qyZ bhwdr jI nwl pMifqW dI rihnumweI krn leI id`lI phuMcy?</text>
+		<answer>BweI mqI dws, BweI sqI dws, BweI idAwlw jI[</answer>
+	</question>
+	<question id="166">
+		<text>AOrMgjyb ny gurU qyZ bhwdr Aqy auhnW dy is`KW nUM kI krn leI ikhw?</text>
+		<answer>AOrMgjyb ny auhnW nUM ieslwm kbUl krn leI ikhw Aqy rwj-Bwg dw lwlc id`qw[</answer>
+	</question>
+	<question id="167">
+		<text>ieslwm nw kbUlx qy AOrMgjyb ny kI sjw suxweI?</text>
+		<answer>ieslwm nw kbUlx qy AOrMgjyb ny gurU qyZ bhwdr jI dw sIs klm krn Aqy bwkI srIr dy toty kr ky swry Sihr iv`c tMgx leI ikhw[</answer>
+	</question>
+	<question id="168">
+		<text>bwkI iqMn is`KW nUM ikvyN ShId kIqw?</text>
+		<answer>BweI mqI dws jI crKVI qy cVHy, BweI sqI jI ƒ rUM iv`c lpyt ky ijENdy jI A`g lw id`qI geI, BweI idAwlw jI nUM dyg iv`c aubwilAw igAw[</answer>
+	</question>
+	<question id="169">
+		<text>gurU qyZ bhwdr jI nUM kdoN Aqy ik`Qy ShId kIqw igAw?</text>
+		<answer>gurU qyZ bhwdr jI nUM 11 nvMbr 1675 eIsvI nUM id`lI dy cWdnI cOk iv`c ShId kIqw igAw[</answer>
+	</question>
+	<question id="170">
+		<text>ij`Qy gurU qyZ bhwdr jI nUM ShId kIqw igAw au~Qy ikhVw gurduAwrw hY?</text>
+		<answer>gurduAwrw sIs gMj swihb[</answer>
+	</question>
+	<question id="171">
+		<text>gurU qyZ bhwdr swihb jI dw sIs lY ky AnMdpur swihb kOx igAw sI?</text>
+		<answer>BweI jYqw jI, ijsnUM gurU goibMd isMG jI ny gl nwl lw ky
+“rMGrytw gurU kw bytw” dw i^qwb id`qw[</answer>
+	</question>
+	<question id="172">
+		<text>gurU qyZ bhwdr jI dy DVH dw sskwr iks ny kIqw sI?</text>
+		<answer>l`KI Swh vxjwry ny Awpxy Gr iv`c gurU swihb dy DVH ƒ r`K ky Gr nUM hI A`g lw ky sskwr kr id`qw[ ies jgHw Aqy hux gurduAwrw rkwbgMj hY[</answer>
+	</question>
+	<question id="173">
+		<text>gurU qyZ bhwdr swihb dy sIs dw ik`Qy sskwr kIqw igAw?</text>
+		<answer>sIs gMj swihb, AnMdpur swihb ivKy[</answer>
+	</question>
+	<question id="174">
+		<text>gurU qyZ bhwdr swihb AMimRqsr ikMnw icr rhy?</text>
+		<answer>gurU qyZ bhwdr swihb AMimRqsr nON swl rhy[</answer>
+	</question>
+	<question id="175">
+		<text>gurU qyZ bhwdr swihb bwbw bkwly (nwnkw ipMf) ikMnw icr rhy?</text>
+		<answer>gurU qyZ bhwdr swihb bwbw bkwly 30 swl rhy[</answer>
+	</question>
+	<question id="176">
+		<text>gurU qyZ bhwdr swihb dy gurU gRMQ swihb iv`c ikMny Sbd Aqy slok drj hn?</text>
+		<answer>gurU qyZ bhwdr swihb dy gurU gRMQ swihb iv`c 59 Sbd Aqy 57 slok drz hn[</answer>
+	</question>
+	<question id="177">
+		<text>gurU gRMQ swihb iv`c ikhVw rwg isr&amp; gurU qyZ bhwdr jI ny hI vriqAw hY?</text>
+		<answer>jYjwvMqI rwg isr&amp; gurU qyZ bhwdr jI ny hI gurU gRMQ swihb iv`c vriqAw[</answer>
+	</question>
+	<question id="178">
+		<text>gurU goibMd isMG jI dw jnm ik`Qy Aqy kdoN hoieAw?</text>
+		<answer>gurU goibMd isMG jI dw jnm 22 dsMbr, 1666 nUM ptnw swihb ivKy hoieAw[</answer>
+	</question>
+	<question id="179">
+		<text>gurU goibMd isMG jI dw bcpn dw kI nW sI?</text>
+		<answer>gurU goibMd isMG jI dw bcpn dw nW goibMd rwie sI[</answer>
+	</question>
+	<question id="180">
+		<text>gurU goibMd isMG jI dy mwqw ipqw dw kI nW sI?</text>
+		<answer>gurU goibMd isMG jI dy mwqw, mwqw gujrI jI Aqy ipqw, gurU qyZ bhwdr jI sn[</answer>
+	</question>
+	<question id="181">
+		<text>gurU goibMd isMG jI dy jnm dy bwry sux ky ikhVw sU&amp;I sMq drSn krn AwieAw?</text>
+		<answer>gurU goibMd isMG jI dy jnm dy bwry sux ky s`Xd BIKm Swh drSn krn AwieAw [</answer>
+	</question>
+	<question id="182">
+		<text>gurU qyZ bhwdr jI dI ZYr-hwzrI iv`c goibMd rwie dw pwlx-poSx iks dI ingrwnI hyT hoieAw?</text>
+		<answer>goibMd rwie dw pwlx-poSx auhnW dy mwmw jI ikrpwl cMd dI ingrwnI hyT hoieAw[</answer>
+	</question>
+	<question id="183">
+		<text>gurU goibMd isMG jI ptnw swihb ikMnw icr rhy?</text>
+		<answer>gurU goibMd isMG jI ptnw swihb 5 swl rhy[</answer>
+	</question>
+	<question id="184">
+		<text>ptny qoN AnMdpur jwx ligAW rwjw &amp;qih cMd dI rwxI nUM gurU goibMd isMG jI ny kI pRym Bytw kIqw?</text>
+		<answer>gurU goibMd isMG jI ny AwpxI puSwk, ikrpwn Aqy ktwr id`qI jo A`j vI gurduAwrw mYnI sMgq iv`c mOjUd hY[</answer>
+	</question>
+	<question id="185">
+		<text>rwjw &amp;qih cMd ny gurU jI dI Xwd iv`c ikhVw gurduAwrw bxwieAw?</text>
+		<answer>rwjw &amp;qih cMd ny gurU jI dI Xwd gurduAwrw mYxI sMgq bxvwieAw[</answer>
+	</question>
+	<question id="186">
+		<text>gurU goibMd isMG jI ikMnI aumr iv`c gurg`dI Aqy bYTy?</text>
+		<answer>gurU goibMd isMG jI nON swl dI aumr iv`c gurg`dI Aqy bYTy[</answer>
+	</question>
+	<question id="187">
+		<text>gurU goibMd isMG jI ny gurg`dI Aqy bYTidAW hI Awaux vwlIAW muSklW nwl nij`Tx leI ikhVIAW iqAwrIAW kIqIAW?</text>
+		<answer>TODO</answer>
+	</question>
+	<question id="188">
+		<text>gurU goibMd isMG jI ny Awaux vwly smyN nUM vyKidAW hyT ilKIAW iqAwrIAW kIqIAW:</text>
+		<answer>1: is`K nOjvwnW dI Ssqr iv`idAw, GoVsvwrI Aqy iSkwr Kyfx v`l  rucI vDwauxw[
+2: sMgqW nUM Ssqr Aqy vDIAw GoVy Byt krn leI pRyrnw[
+3: sRI AnMdpur swihb iv`c jMgI mSkW AwrMB kIqIAW Aqy Ssqr bxwaux dy kwr^wny lwey[
+5: ikilHAW dI auswrI kIqI[</answer>
+	</question>
+	<question id="189">
+		<text>AnMdpur swihb ivKy ikhVy pMj iklHy gurU goibMd isMG jI ny bxvwey?</text>
+		<answer>1: inrmoh gVH, hol gVH, loh gVH
+2: &amp;iqh gVH swihb, kys gVH, AnMd gVH</answer>
+	</question>
+	<question id="190">
+		<text>jdoN rwjw rwm isMG gurU drbwr iv`c AwieAw qW ausny gurU goibMd isMG jI nUM kI ByNt kIqw?</text>
+		<answer>rwjw rwm isMG ny gurU swihb nUM pMj vDIAw GoVy ByNt kIqy[</answer>
+	</question>
+	<question id="191">
+		<text>rwjw rqn rwey ny gurU goibMd isMG jI nUM kI ByNt kIqw?</text>
+		<answer>rwjw rqn rwey ny gurU goibMd isMG jI nUM prSwdI hwQI Aqy pMj klw Ssqr gurU jI nUM ByNt kIqy[</answer>
+	</question>
+	<question id="192">
+		<text>pSmIny dI cwnxI gurU goibMd isMG jI nUM iksny ByNt kIqI?</text>
+		<answer>pSmIny dI cwnxI gurU goibMd isMG jI nUM kwbul dy guris`K BweI dunI cMd ny ByNt kIqI[</answer>
+	</question>
+	<question id="193">
+		<text>rxjIq ngwrw kdoN Aqy ik`Qy SurU hoieAw?</text>
+		<answer>1682 iv`c ik`lw AnMdgVH ivKy rxjIq ngwrw SurU hoieAw[</answer>
+	</question>
+	<question id="194">
+		<text>phwVI rwjy gurU goibMd isMG jI nwl ikauN eIrKw r`Kdy sn?</text>
+		<answer>gurU goibMd isMG jI dI vDdI lokipRXqw, SwhI TwT, sMgq Aqy pMgq, jwqpwq dw &amp;rk ^qm krnw, rihq pRcwr, ik`ilHAW dI auswrI Aqy ngwry dIAW cotW phwVI rwijAW nUM bhuq cuBdIAW sn[</answer>
+	</question>
+	<question id="195">
+		<text>gurU goibMd isMG jI Aqy phwVI rwijAW dI pihlI lVweI kdoN hoeI?</text>
+		<answer>pihlI lVweI gurU goibMd isMG jI Aqy kihlUr dy rwjy BIm cMd dy iv`ckwr BMgwxI ivKy PrvrI 1686 eIsvI nUM hoeI[ ies lVweI iv`c phwVI rwijAW dI hwr hoeI[</answer>
+	</question>
+	<question id="196">
+		<text>BMgwxI dy Xu`D smyN gurU goibMd isMG jI nUM l`kV dIAW do qopW iksny ByNt kIqIAW?</text>
+		<answer>kwSI invwsI BweI rwmw jI ny BMgwxI dy Xu`D smyN gurU goibMd isMG jI nUM qopW ByNt kIqIAW[</answer>
+	</question>
+	<question id="197">
+		<text>holw mh`lw qoN kI Bwv hY Aqy gurU goibMd isMG jI ny ikauN SurU kIqw?</text>
+		<answer>holw qoN Bwv hY hmlw Aqy mh`lw qoN Bwv hY QW[ gurU jI ny is`KW iv`c bIr rs Brn Aqy auhnW nUM Ssqr-iv`idAw isKwaux leI holw mh`lw SurU kIqw[</answer>
+	</question>
+	<question id="198">
+		<text>gurU goibMd isMG jI holy mh`ly nUM ikvyN mnwauNdy sn?</text>
+		<answer>gurU goibMd isMG jI bsMq dy idnW iv`c holw mh`lw mnwauNdy sn[ ies idn is`KW qoN SsqrW nwl krqb krwauNdy sn Aqy vDIAw pRdrSn krn vwilAW nUM ienwm Aqy qoh&amp;y id`qy jWdy sn[ Aqy ies ^uSI iv`c auhnW auqy kysr dI qnkweI kIqI jWdI sI[</answer>
+	</question>
+	<question id="199">
+		<text>^wlsw pMQ dI swjnw kdoN hoeI?</text>
+		<answer>gurU goibMd isMG jI ny 13 ApRYl 1699 vwly idn kIqI[</answer>
+	</question>
+	<question id="200">
+		<text>^wlsw swjx vyly gurU goibMd isMG jI dy hukm muqwbk ikhVy pMj ipAwirAW ny Awpxy sIs ByNt kIqy?</text>
+		<answer>BweI dieAw rwm - lhOr, pMjwb qoN - BweI dieAw isMG
+BweI Drm dws - hsiqnwpur, id`lI qoN - BweI Drm isMG
+BweI ihMmq rwie - jgMnwQpurI, auVIsw qoN - BweI ihMmq isMG
+BweI mohkm cMd - dvwrkw, gujrwq qoN - BweI mohkm isMG
+BweI swihb cMd - ibdr, AWDrw pRdyS qoN - BweI swihb isMG</answer>
+	</question>
+	<question id="201">
+		<text>1699 dI vYswKI Aqy pMj ipAwirAW nUM AMimRq Ckw ky gurU goibMd isMG jI ny Awp auhnW koloN AMimRq ikauN CikAw?</text>
+		<answer>gurU goibMd isMG jI ny pMj ipAwirAW qoN AMimRq Ck ky gurU cyly nUM AByd kIqw Aqy gurU pMQ dw nW dy ky sqkwirAw Aqy goibMd rwie qoN goibMd isMG bxy[</answer>
+	</question>
+	<question id="202">
+		<text>ies qrHW AMimRq Ckwaux dI rsm dw ikhxw lokW ny ivroD kIqw?</text>
+		<answer>mIxy, DIrm`lIey, Aqy rwm reIey; ijhnw nwl imlx qoN gurU swihb ny is`KW nUM vrijAw[</answer>
+	</question>
+	<question id="203">
+		<text>1699 dI vYswKI qoN bwAd ikMny lokW ny AMimRq CikAw?</text>
+		<answer>1699 dI vYswKI qoN bwAd 80000 lokW ny AMimRq CikAw[</answer>
+	</question>
+	<question id="204">
+		<text>KMfw kI hY?</text>
+		<answer>KMfw do DwrI qlvwr vrgw iek Ssqr hY[</answer>
+	</question>
+	<question id="205">
+		<text>sRI AnMdpur swihb ivKy gurU goibMd isMG jI ny ikMny Xu`D lVy?</text>
+		<answer>1701 eIsvI qoN lY ky 1704 eIsvI q`k gurU swihb nUM AnMdpur ivKy cwr Xu`D lVny pey[</answer>
+	</question>
+	<question id="206">
+		<text>sRI AnMdpur  swihb dI pihlI jMg iv`c rwjw kysrI cMd dw isr iks ny lwihAw?</text>
+		<answer>BweI audy isMG ny hwQI Aqy cVH ky rwjw kysrI cMd dw isr lwihAw[</answer>
+	</question>
+	<question id="207">
+		<text>sRI AnMdpur  dI jMg iv`c hwQI dy isr iv`c nwgnI brCw iks ny mwirAw?</text>
+		<answer>hwQI dy isr iv`c BweI bic`qr isMG jI ny nwgnI brCw mwirAw[</answer>
+	</question>
+	<question id="208">
+		<text>sRI AnMdpur  dI jMg iv`c P`tV ispwhIAW nUM bZYr iksy ivqkry dy iks ny jl CkwieAw Aqy mrhm p`tI kIqI?</text>
+		<answer>BweI Gn~eIAw jI ny Aqy AwpixAW dy nwl-nwl duSmx P`tV ispwhIAW nUM vI jl CkwieAw Aqy mrhm p`tI kIqI[</answer>
+	</question>
+	<question id="209">
+		<text>sRI AnMdpur  swihb C`fx qoN bwAd kdoN Aqy ik`Qy prvwr iv`CoVw ipAw?</text>
+		<answer>20 dsMbr 1704 eIsvI nUM srsw ndI dy kMFy gurU goibMd isMG jI dw prvwr iqMn ih`isAW iv`c vMifAw igAw[ mwqw suMdr kOr Aqy mwqw swihb kOr BweI mnI isMG nwl id`lI nUM cly gey, v`fy swihbjwdy AjIq isMG Aqy juJwr isMG gurU swihbwn nwl cmkOr jw pu`jy, mwqw gujrI swihbjwdy jorwvr isMG Aqy Pqyh isMG gMgU bwhmx nwl KyVI ipMf jw phuMcy[</answer>
+	</question>
+	<question id="210">
+		<text>mwqw gujrI Aqy Coty swihbjwidAW nwl iks ny ivSvwsGwq kIqw?</text>
+		<answer>gMgU bwhmx ny sony Aqy pYisAW dw lwlc kr ky mwqw gujrI Aqy donoN swihbjwidAW nUM sUbw srhMd kol PVw id`qw[</answer>
+	</question>
+	<question id="211">
+		<text>mwqw gujrI nUM dovyN swihbjwidAW smyq ik`Qy kYd kIqw igAw?</text>
+		<answer>sMmn burj srhMd ivKy mwqw gujrI nUM dovyN swihbjwidAW smyq kYd kIqw igAw[</answer>
+	</question>
+	<question id="212">
+		<text>aus gurduAwry dw nW d`so ij`Qy Coty swihbjwidAW nUM ijENdy-jI nIhW iv`c icx idqw igAw?</text>
+		<answer>gurduAwrw PqihgVH swihb ijs nUM srdwr j`sw isMG AwhlUvwlIAw ny bxvwieAw[</answer>
+	</question>
+	<question id="213">
+		<text>aus ivAkqI dw nW d`so ijs ny srhMd dy nvwb qoN jgHw mu`l lY ky Coty swihbjwidAW dw sskwr kIqw?</text>
+		<answer>tofrml ny sony dIAW mohrW iv`cw ky DrqI mu`l leI sI[</answer>
+	</question>
+	<question id="214">
+		<text>jdoN cmkOr dI gVHI nUM muZlW v`loN Gyrw pwieAw igAw qW iks ny gurU goibMd isMG jI nMU gVHI C`fx leI ikhw?</text>
+		<answer>gurU goibMd isMG dy nwl jo isMG sI auhnW nyy pMj ipAwirAW dy rUp iv`c gVHI C`f jwx leI hukm kIqw[</answer>
+	</question>
+	<question id="215">
+		<text>jdoN gurU jI A`DI rwqIN cmkOr dI gVHI iv`coN bwhr jw rhy sn qW gurU goibMd isMG jI ny qwVI mwr ky kI ikhw?</text>
+		<answer>“pIry-ihMd my rvid” mqlb “ihMd dw pIr jw irhw hY ijs dI ihMmq hY PV lvo”[</answer>
+	</question>
+	<question id="216">
+		<text>gurU jI ny gVHI iv`coN jwx smyN AwpxI puSwk qy klZI iks isMG nUM puAw ky KVw kIqw Aqy ikauN?</text>
+		<answer>gurU goibMd isMG jI Aqy BweI sMgq isMG jI dI Skl bhuq imldI sI Aqy muZl &amp;Oj nUM BulyKw pwaux leI gurU swihb ny AwpxI puSwk Aqy klZI sMgq isMG nUM puAweI[</answer>
+	</question>
+	<question id="217">
+		<text>cmkOr dI gVHI C`fx qoN bwAd gurU goibMd isMG jI ik`Qy gey?</text>
+		<answer>gurU goibMd isMG jI nMgy pYrIN mwCIvwVy dy jMglW iv`c phuMcy[</answer>
+	</question>
+	<question id="218">
+		<text>gurU goibMd isMG jI dI muZl kYNp iv`coN lMGx vyly iks ny mdd kIqI?</text>
+		<answer>gurU goibMd isMG jI dI muZl kYNp iv`coN lMGx vyly do pTwxW, nbI Kwn Aqy gnI Kwn, ny mdd kIqI[</answer>
+	</question>
+	<question id="219">
+		<text>aus kwjI dw nW d`so ijs koloN au~c dy pIr dI pCwx krweI geI?</text>
+		<answer>kwjI mIr muhMmd, jo gurU goibMd isMG jI dy &amp;wrsI dy AiDAwpk sn[</answer>
+	</question>
+	<question id="220">
+		<text>Coty swihbjwidAW dI ShIdI dI ^br gurU goibMd isMG jI nUM iksny id`qI?</text>
+		<answer>ipMf j`tpurw, ijlHw luiDAwxy iv`c BweI rwie k`lw ny gurU swihb nUM swihbjwidAW dI ShIdI bwry d`isAw[</answer>
+	</question>
+	<question id="221">
+		<text>gurU goibMd isMG jI ny Coty swihbjwidAW dI ShIdI bwry sux ky kI ikhw?</text>
+		<answer>gurU jI ny qIr dI nok nwl iek kwhI dw bUtw pu`itAw Aqy ikhw ik muZl rwj dIAW jVHW vI eysy qrHW pu`tIAW jwx gIAW[</answer>
+	</question>
+	<question id="222">
+		<text>BMgwxI dy Xu`D iv`c iksny gurU goibMd isMG jI dw swQ C`ifAw sI?</text>
+		<answer>pTwxw ny[</answer>
+	</question>
+	<question id="223">
+		<text>BMgwxI dy Xu`D iv`c iks muslmwn ny gurU goibMd isMG jI dI shwieqw kIqI?</text>
+		<answer>pIr bu`DU Swh Awpxy Brw, BqIjy pu`qrW Aqy hor irSAqydwrW smyq gurU jI dI mdd leI Aw phuMcy[ ies Xu`D iv`c pIr bu`DU Swh dy Brw Aqy pu`qrW smyq bhuq swry murId ShId ho gey[</answer>
+	</question>
+	<question id="224">
+		<text>cmkOr dI jMg iv`c ShId hoey swihbjwidAW Aqy isMGW dw sskwr iksny kIqw?</text>
+		<answer>cmkOr dI jMg iv`c ShId hoey swihbjwidAW Aqy isMGW dw sskwr bIbI Srn kOr ny kIqw[</answer>
+	</question>
+	<question id="225">
+		<text>pIr bu`DU Swh v`loN BMgwxI dy Xu`D iv`c kIqI shwieqw Aqy ^uS ho ky gurU goibMd isMG jI ny auhnW nUM kI qoh&amp;w id`qw?</text>
+		<answer>pIr bu`DU Swh v`loN BMgwxI dy Xu`D iv`c kIqI shwieqw Aqy ^uS ho ky gurU goibMd isMG jI iek kMGw kysW smyq, iek ikrpwn Aqy dsqwr id`qI[</answer>
+	</question>
+	<question id="226">
+		<text>gurU goibMd isMG A`gy bhwdurI dI fINg iksny mwrI sI?</text>
+		<answer>BweI f`ly ny gurU goibMd isMG jI nUM ikhw &amp;quot;Aqyry ispwhI qW Bu`K dy mry hoey ny[ qusIN mYnUM jMg smyN s`d Byjdy myry kol bhuq sufol Aqy bhwdr ispwhI hn[’’</answer>
+	</question>
+	<question id="227">
+		<text>jdoN gurU goibMd isMG jI ny bMdUk dI prK vwsqy f`ly dy ispwhIAW nUM s`d ByijAw qW auhnW ny kI au~qr id`qw?</text>
+		<answer>f`ly dy ispwhI iek-dUjy dy ip`Cy lukdy kihx l`gy ’’gurU swihb ny jy bMdUk dI prK krnI hY qW jMgy-mYdwn iv`c krn[ AsIN AjweIN hI AwpxI jwn nhIN guAwxI[’’</answer>
+	</question>
+	<question id="228">
+		<text>mwCIvwVy dy jMglW qoN bwAd gurU goibMd isMG jI ik`Qy phuMcy?</text>
+		<answer>gurU goibMd isMG jI mwCIvwVy qoN huMdy hoey iKdrwxy dI Fwb Aqy phuMcy ij`Qy isMG isMGxIAW Aqy muZlW dI lVweI ho ky htI sI[</answer>
+	</question>
+	<question id="229">
+		<text>cwlI mukqy, ijhnw dw Ardws iv`c vI izkr AwauNdw hY, kOx sn?</text>
+		<answer>ieh cwlI mukqy gurU goibMd isMG jI dy auh isMG sn jo gurU jI nUM sRI AnMdpur  swihb ivKy muZlW v`loN pwey Gyry dOrwn bydwvw ilK ky dy gey sn ik qUM swfw gurU nhIN Aqy AsIN qyry is`K nhIN[ pr bwAd iv`c AwpxI ZlqI dw Aihsws kridAW gurU jI dw ip`Cw krdIAW muZl &amp;OjW nwl lVdy-lVdy ShIdI pw gey[ ies ShIdI qoN bwAd jdoN gurU jI iKdrwxy dI Fwb Aqy phuMcy qW auhnW ShId hoey isMGW nUM 40 mukqy kih ky invwijAw[ ieh ieiqhwsk QW mukqsr dy nW nwl jwxI jWdI hY.</answer>
+	</question>
+	<question id="230">
+		<text>iKdrwxy dI Fwb vwlI jMg kdoN hoeI sI?</text>
+		<answer>29 dsMbr 1705 eIsvI[</answer>
+	</question>
+	<question id="231">
+		<text>mweI Bwgo kOx sI?</text>
+		<answer>mweI Bwgo Jbwl dy rihx vwly is`K pirvwr dI bhwdr AOrq sI ijsny 40 mukiqAW nUM muV jMg iv`c jwx leI pRyirAw Aqy Awp aus j`Aqy dI AgvweI kIqI[ muZlW nwl lVweI dOrwn Awp bhuq z^mI ho gey sn Aqy auhnW dw ielwj gurU goibMd isMG jI dI ingrwnI hyT hoieAw Aqy bwAd iv`c Awp gurU swihb nwl nMdyV cly gey[</answer>
+	</question>
+	<question id="232">
+		<text>cwlI mukiqAW dw jAqydwr kOx sI?</text>
+		<answer>cwlI mukiqAW dw jAqydwr srdwr mhW isMG (mweI Bwgo dy pqI) sI[</answer>
+	</question>
+	<question id="233">
+		<text>iKdrwxy dI Fwb qoN bwAd gurU goibMd isMG jI ik`Qy gey?</text>
+		<answer>ies qoN bwAd gurU swihb qlvMfI swbo gey jo hux pMj q^qW iv`coN ie`k hY[</answer>
+	</question>
+	<question id="234">
+		<text>qlvMfI swbo ivKy gurU goibMd isMG jI iks kol Tihry sn?</text>
+		<answer>qlvMfI swbo ivKy gurU goibMd isMG jI auQoN dy cODrI BweI f`ly dy kol Tihry sn[</answer>
+	</question>
+	<question id="235">
+		<text>qlvMfI swbo dy gurduAwry nUM iks nwm nwl jwixAw jWdw hY?</text>
+		<answer>qlvMfI swbo dw gurduAwrw A`j k`lH dmdmw swihb dy nwm nwl jwixAw jWdw hY[</answer>
+	</question>
+	<question id="236">
+		<text>dmdmw swihb rihMdy hoey gurU goibMd isMG jI ny kI kI kMm kIqy?</text>
+		<answer>ie`Qy gurU swihb ny pUry gurU gRMQ swihb jI dw aucwrx kIqw sI Aqy BweI mnI isMG jI ny iesnUM iliKAw sI[</answer>
+	</question>
+	<question id="237">
+		<text>mwqw suMdr kOr Aqy mwqw swihb kOr nUM lY ky BweI mnI isMG ikhVI jgHw gurU goibMd isMG nUM imly?</text>
+		<answer>mwqw suMdr kOr Aqy mwqw swihb kOr nUM lY ky BweI mnI isMG gurU goibMd isMG nUM dmdmw swihb ivKy imly[</answer>
+	</question>
+	<question id="238">
+		<text>qlvMfI swbo ivKy BweI mnI isMG dy ielwvw hor ikhVy mhwn XoDy gurU goibMd isMG jI nwl sn?</text>
+		<answer>BweI mnI isMG qoN ielwvw bwbw dIp isMG, bwbw jIvn isMG Aqy hor keI isMG jo srsw ndI Aqy iv`CV gey sn ie`Qy Aw ky iek`Ty hoey[</answer>
+	</question>
+	<question id="239">
+		<text>bwbw dIp isMG jI nUM kI kMm krn dI syvw b^SI geI?</text>
+		<answer>bwbw dIp isMG jI nUM gurU gRMQ swihb jI dy auqwry krn dI syvw b^SI geI[ so auhnW ny cwr auqwry kIqy[ ijhnW iv`coN ie`k bIV jWidAW hoey nWdyV lY gey, iek bIV BweI mnI isMG nUM dy ky drbwr swihb ByijAw, Aqy iek bIV ptnw swihb ByjI[</answer>
+	</question>
+	<question id="240">
+		<text>ijs burj iv`c bYT ky bwbw dIp isMG jI ny gurU gRMQ swihb dy auqwry kIqy, ausnUM kI kihMdy hn Aqy kI ieh A`j vI mOjUd hY?</text>
+		<answer>ies burj nUM bwbw dIp isMG burj ikhw jWdw hY Aqy ieh A`j vI qlvMfI swhbo ivKy mOjUd hY[</answer>
+	</question>
+	<question id="241">
+		<text>Awid gRMQ dw pihlw auqwrw iks ny kIqw?</text>
+		<answer>Awid gRMQ dw pihlw auqwrw BweI bMno jI ny kIqw sI Aqy ies bIV nUM bMnovwlI bIV ikhw jWdw hY[</answer>
+	</question>
+	<question id="242">
+		<text>nWdyV jWidAW rsAqy iv`c gurU goibMd isMG jI ny iks rwjy dI mdd kIqI?</text>
+		<answer>nWdyV jWidAW rsAqy iv`c gurU goibMd isMG jI ny AOrMgjyb dy Coty pu`qr bhwdr Swh nUM rwj g`dI idvwaux leI mdd kIqI[</answer>
+	</question>
+	<question id="243">
+		<text>nWdyV phuMc ky gurU goibMd isMG jI ny kI kIqw?</text>
+		<answer>nWdyV phuMc ky gurU goibMd isMG jI ny isMGW nUM muV ky jAqybMd kIqw Aqy mwDo dws nUM AMimRq Ckw ky bMdw isMG bhwdr bxwieAw[</answer>
+	</question>
+	<question id="244">
+		<text>bMdw isMG bhwdr nUM gurU goibMd isMG jI ny kI kMm sONipAw?</text>
+		<answer>gurU goibMd isMG jI ny bMdw isMG bhwdr nUM pMQ dw jAqydwr bxw ky, pMj isMG, pMj qIr, pMj Ssqr, iek ngwrw dy ky pMjwb v`l jwlmW dw s&amp;wieAw krn leI ByijAw[</answer>
+	</question>
+	<question id="245">
+		<text>gurU goibMd jI ny Xu`DW qo ielwvw kI kMm kIqy?</text>
+		<answer>gurU goibMd isMG jI ny hyT ilKy kMm kIqy:
+1: ^wlsw pMQ dI swjnw kIqI
+2: bwxI dI rcnw kIqI
+3: gurU gRMQ swihb jI dI sMpwdnw kIqI
+4: gurU gRMQ swihb jI nUM gur-g`dI b^SI</answer>
+	</question>
+	<question id="246">
+		<text>gurU goibMd isMG jI nUM iksny Curw mwirAw?</text>
+		<answer>gurU goibMd isMG jI nUM bhwdr Swh v`loN Byjy gey do pTwxW, jmSyd ^wn Aqy Zul ^wn, ny Curw mwirAw[</answer>
+	</question>
+	<question id="247">
+		<text>gurU goibMd isMG jI kdoN joqI-joiq smwey?</text>
+		<answer>gurU goibMd isMG jI 7 AkqUbr 1708 nUM joqI-joiq smwey[</answer>
+	</question>
+	<question id="248">
+		<text>gurU goibMd isMG jI ny gur g`dI iks nUM sONpI?</text>
+		<answer>joqI-joiq smwaux qoN pihlW gurU goibMd isMG jI ny gurU gRMQ swihb jI nUM gur g`dI b^SI Aqy ikhw ’’ sB is`Kn ko hukm hY, gurU mwinE gRMQ’’[</answer>
+	</question>
+	<question id="249">
+		<text>j&amp;rnwmw iks nUM kihMdy hn?</text>
+		<answer>j&amp;rnwmw &amp;wrsI dw Sbd hY ijs dw ArQ hY ’’ij`q dw p`qr’’, jo gurU swihb ny AOrMgjyb nUM iliKAw Aqy ausnUM pVH ky AOrMgjyb pwgl ho ky mr igAw[</answer>
+	</question>
+	<question id="250">
+		<text>nWdyV, ij`Qy gurU jI joqI-joiq smwey, ik`Qy hY Aqy ie`Qy ikhVw gurduAwrw hY?</text>
+		<answer>nWdyV godwvrI ndI dy kMFy, mhwrwStr sUby iv`c hY Aqy ies QW Aqy hux hzUr swihb gurduAwrw hY[ ieh is`KW dy pMj q^qW iv`coN ie`k hY[</answer>
+	</question>
+	<question id="251">
+		<text>kI gurU goibMd isMG jI muslmwnW dy duSmx sn?</text>
+		<answer>nhIN[ gurU swihb dI ikrpwn julm Aqy ZulwmI dy ivru`D sI[ ij`Qy ihMdU phwVI rwijAW ny gurU swihb nwl lVweI kIqI au~Qy muslmwnW Aqy pTwxW ny auhnW dI mdd vI kIqI[</answer>
+	</question>
+	<question id="252">
+		<text>gurU gRMQ swihb iv`c ikhVy gurUAW dI bwxI drj hY?</text>
+		<answer>1: gurU nwnk dyv jI
+2: gurU AMgd dyv jI
+3: gurU Amrdws jI
+4: gurU rwmdws jI
+5: gurU Arjn dyv jI
+6: gurU qyZ bhwdr jI</answer>
+	</question>
+	<question id="253">
+		<text>gurU gRMQ swihb iv`c ikhVy BgqW dI bwxI drj hY?</text>
+		<answer>1:  Bgq &amp;rId jI
+2: Bgq kbIr jI
+3: Bgq nwmdyv jI
+4: Bgq rivdws jI
+5: Bgq iqRlocn jI
+6: Bgq pIpw jI
+7: Bgq sDnw jI
+8: Bgq DMnw jI
+9: Bgq rwmwnMd jI
+10: Bgq sUrdws jI
+11: Bgq jYdyv jI
+12: Bgq BIKn jI
+13: Bgq sYx jI
+14: Bgq prmwnMd jI
+15: Bgq byn jI</answer>
+	</question>
+	<question id="254">
+		<text>gurU gRMQ swihb iv`c ikhVy B`tW dI bwxI hY?</text>
+		<answer>1: B`t klSwr
+2: B`t jwlp
+3: B`t kIrq
+4: B`t BIKw
+5: B`t slH
+6: B`t BlH
+7: B`t nl
+8: B`t gXMd
+9: B`t mQurw
+10: B`t bl
+11: B`t hrbMs</answer>
+	</question>
+	<question id="255">
+		<text>gurU gRMQ swihb iv`c ikhVy guris`KW dI bwxI drj hY?</text>
+		<answer>1: BweI s`qw jI
+2: BweI blvMf jI
+3: bwbw suMdr jI
+4: BweI mrdwnw jI</answer>
+	</question>
+	<question id="256">
+		<text>gurU gRMQ swihb iv`c ikMny rwg hn?</text>
+		<answer>gurU gRMQ swihb iv`c 31 rwg hn[</answer>
+	</question>
+	<question id="257">
+		<text>gurU gRMQ swihb iv`c ikhVy rwg hn?</text>
+		<answer>1: sRI
+2: Awsw
+3: gauVI
+4: mwJ
+5: gUjrI
+6: dyvgMDwrI
+7: ibhwgVw
+8: vfhMsu
+9: soriT
+10: DnwsrI
+11: tofI
+12: bYrwVI
+13: iqlMg
+14: sUhI
+15: iblwvlu
+16: goNf
+17: rwmklI
+18: nt nwrwiex
+19: mwlI
+20: gauVw
+21: mwrU
+22: quKwrI
+23: kydwrw
+24: BYrau
+25: bsMq
+26: swrMg
+27: mlwr
+28: kwnVw
+29: kilAwx
+30: prBwqI
+31: jYjwvMqI</answer>
+	</question>
+	<question id="258">
+		<text>gurU gRMQ swihb Aqy Awid gRMQ iv`c kI &amp;rk hY?</text>
+		<answer>gurU gRMQ swihb iv`c gurU qyZ bhwdr jI dI bwxI vI drj hY[ gurU gRMQ swihb iv`c ilKI geI bwxI nUM gurU goibMd isMG jI ny aucwirAw Aqy BweI mnI isMG jI ny iliKAw[ ies dI sMpwdnw qlvMfI swbo ivKy krvweI geI Aqy AMq iv`c gurU gRMQ swihb jI nUM guirAweI dy ky dyh Aqy Awqmw dw sumyl kIqw igAw[Awid gRMQ iv`c pihly pMj gurUAW dI bwxI ijsnUM gurU Arjn dyv jI ny ilKvwieAw Aqy BweI gurdws jI ny iliKAw[ Awid gRMQ dI sMpwdnw hirmMdr swihb, AMimRqsr ivKy kIqI geI[ Awid gRMQ dy huMidAW gurU swihb Awp vI BOiqk rUp iv`c mOjUd sn[</answer>
+	</question>
+	<question id="259">
+		<text>slok qoN kI Bwv hY?</text>
+		<answer>sMsikRq BwSw iv`c slok prSMsw jW SlwGw leI vriqAw jWdw hY Aqy gurbwxI iv`c slok rwhIN Dwrimk Aqy nYiqk aupdyS dw pRgtwA kIqw jWdw hY[</answer>
+	</question>
+	<question id="260">
+		<text>gurU qyZ bhwdr dy ikMny slok gurU gRMQ swihb iv`c drj hn?</text>
+		<answer>gurU qyZ bhwdr jI dy 57 slok gurU gRMQ swihb iv`c drj hn[</answer>
+	</question>
+	<question id="261">
+		<text>gurU qyZ bhwdr jI ny slokW dI rcnw kdoN kIqI?</text>
+		<answer>gurU qyZ bhwdr jI ny slokW dI rcnw ShIdI qoN pihlW igRPqwrI dy dOrwn kIqI[</answer>
+	</question>
+	<question id="262">
+		<text>gurbwxI iv`c dupdy, caupdy, pMcpdy Aqy Cky qoN kI Bwv hY?</text>
+		<answer>dupdy:- do bMdW dI rcnw[
+caupdy:- cwr bMdW dI rcnw[
+pMcpdy:- pMj bMdW dI rcnw[
+Cky:- Cy bMdW dI rcnw[</answer>
+	</question>
+	<question id="263">
+		<text>AStpdI kI hY?</text>
+		<answer>A`T bMdW dI rcnw nUM AStpdI kihMdy hn?</answer>
+	</question>
+	<question id="264">
+		<text>suKmnI swihb iv`c ikMnIAW AStpdIAW hn?</text>
+		<answer>suKmnI swihb iv`c 24 AStpdIAW hn[</answer>
+	</question>
+	<question id="265">
+		<text>suKmnI swihb dI bwxI iks gurU ny iks rwg iv`c aucwrI?</text>
+		<answer>suKmnI swihb dI bwxI gurU Arjn dyv jI ny rwg gauVI iv`c aucwrI[</answer>
+	</question>
+	<question id="266">
+		<text>vwr iks nUM kihMdy hn?</text>
+		<answer>vwr pMjwbI swih`q dw iek kwiv rUp hY ijs dI rcnw pauVIAW iv`c huMdI hY[ vwr rwhIN nwiek dw js jW Xu`DW dw vrnx kIqw igAw huMdw hY[</answer>
+	</question>
+	<question id="267">
+		<text>gurU gRMQ swihb iv`c kul ikMnIAW vwrW hn?</text>
+		<answer>gurU gRMQ swihb iv`c kul 22 vwrW hn[</answer>
+	</question>
+	<question id="268">
+		<text>gurU gRMQ swihb iv`c ikhVIAW vwrW iv`c slok nhIN hn?</text>
+		<answer>bsMq Aqy rwmklI ky vwr iv`c slok nhIN hn[</answer>
+	</question>
+	<question id="269">
+		<text>Bgq kbIr dw jnm kdoN hoieAw?</text>
+		<answer>Bgq kbIr dw jnm 1398 eIsvI iv`c hoieAw[</answer>
+	</question>
+	<question id="270">
+		<text>Bgq kbIr dw kI ik`qw sI?</text>
+		<answer>Bgq kbIr julwhy dw kMm krdy sn[</answer>
+	</question>
+	<question id="271">
+		<text>Bgq kbIr kdoN joqI-joiq smwey?</text>
+		<answer>Bgq kbIr 120 swl dI aumr Bog ky, 1518 eIsvI iv`c joqI-joiq smwey[</answer>
+	</question>
+	<question id="272">
+		<text>Ardws dI SurUAwq vwlI pauVI ik~QoN leI geI hY Aqy iksny rcI hY?</text>
+		<answer>’’BgOqI kI vwr’’ jo ik cMfI dI vwr, dsm grMQ iv`c drj hY qoN leI geI hY[ ies dI rcnw gurU goibMd isMG jI ny kIqI hY[</answer>
+	</question>
+	<question id="273">
+		<text>Ardws iv`c jdoN isMG-isMGxIAW dw izkr AwauNdw hY qW auh iks nUM sMboiDq hY?</text>
+		<answer>BweI mqI dws :- Awry nwl cIry gey, BweI mnI isMG :- bMd-bMd ktwey, BweI qwrU isMG :- KoprI luhweI, BweI Swhbwz isMG Aqy BweI swihb isMG :- donw ipE-pu`qrW nUM crKVI Aqy cwiVHAw igAw[ isMGxIAW :- ijhnW nUM zkrIAw ^wn ny lhOr jylH iv`c kYd kIqw Aqy ijhnW dy Coty-Coty b`icAW dy tukVy-tukVy kr ky JolIAW iv`c pwey gey[ pr Akwl purK dw Bwxw mMndIAW Afol rhIAW[</answer>
+	</question>
+	<question id="274">
+		<text>aus bIbI dw nW d`so ijs nUM iek gurU dI DI, pqnI, mW, dwdI Aqy pVdwdI hox dw suBwA pRwpq hoieAw?</text>
+		<answer>bIbI BwnI jo gurU Amrdws jI dI bytI, gurU rwmdws dI pqnI, gurU Arjn dyv jI dy mwqw jI, gurU hrgoibMd dy dwdI Aqy qyZ bhwdr dy pVdwdI Aqy gurU goibMd isMG dy pV-pV dwdI sI[</answer>
+	</question>
+	<question id="275">
+		<text>bwbw bMdw isMG bhwdr nUM jdoN pMjwb v`l qoirAw qW ikhVy pMj isMG auhnW dy nwl sI?</text>
+		<answer>BweI ibnod isMG, BweI kwnH isMG, BweI bwj isMG, BweI rwm isMG, Aqy BweI Pqyh isMG[</answer>
+	</question>
+	<question id="276">
+		<text>bMdw isMG bhwdr ny smwxw ipMf Aqy hmlw ikauN kIqw?</text>
+		<answer>s`Xd jlwldIn smwxy dw rihx vwlw sI, ijs ny gurU qyZ bhwdr dw sIs lwihAw sI[ j`lwd SSwl byg Aqy bSwl byg, ijhnW dohW swihbjwidAW nUM nIhW iv`c icixAw sI, iesy ngr dy vsnIk sn[ ies kr ky bwbw bMdw isMG bhwdr ny smwxy Aqy hmlw kIqw Aqy Awpxy ADIn kr ilAw[</answer>
+	</question>
+	<question id="277">
+		<text>vzIr ^wn kOx sI?</text>
+		<answer>vzIr ^wn srhMd dw sUbydwr sI ijs ny Coty swihbjwidAW nUM nIhW iv`c icxn dw hukm suxwieAw sI[</answer>
+	</question>
+	<question id="278">
+		<text>vzIr ^wn nUM iks ny mwirAw sI?</text>
+		<answer>vzIr ^wn nUM c`pV-icVI dI lVweI iv`c Pqyh isMG ny mOq dy Gwt auqwirAw[</answer>
+	</question>
+	<question id="279">
+		<text>bwbw bMdw isMG bhwdr ny ikhVy kMm kIqy?</text>
+		<answer>bwbw bMdw isMG bhwdr ny iklHy bxwey, izMmIdwrI dI pRQw ^qm kIqI, nwnkSwhI is`kw clwieAw Aqy rwjsI p`qrW Aqy dsqwvyzW leI is`K rwj dI srkwrI mohr cwlU kIqI[</answer>
+	</question>
+	<question id="280">
+		<text>bMdw isMG bhwdr nUM kdoN Aqy ikvyN ShId kIqw igAw?</text>
+		<answer>bMdw isMG bhwdr nUM id`lI iv`c 9 jUn 1716 eIsvI nUM bhuq qsIhy dy ky ShId kIqw igAw[</answer>
+	</question>
+	<question id="281">
+		<text>srb`q ^wlsw iks nUM kihMdy hn?</text>
+		<answer>sMgqW dw Dwrimk Aqy rwjnIiqk mu`idAW nUM lY ky s`idAw igAw ie`kT srb`q ^wlsw khwauNdw hY[ is`K ieiqhws muqwbk purwxy simAW iv`c swl iv`c do vwrI srb`q ^wlsw s`idAw jWdw sI, vYswKI Aqy idvwlI dy mOky qy[</answer>
+	</question>
+	<question id="282">
+		<text>gurm`qw iks nUM kihMdy hn?</text>
+		<answer>Dwrimk mu`idAW au~qy gurU gRMQ swihb dI hzUrI ivc bYTI sMgq soc-ivcwr krn auprMq jo pMQk &amp;Ysly lYNdI hY aus nUM gurm`qw ikhw jWdw hY[ Ajyhy gurm`qy nUM gurU dw hukm mMn ky swrI sMgq pRvwn krdI hY[</answer>
+	</question>
+	<question id="283">
+		<text>is`K pMQ iv`c sB qoN pihlW nvwb dI aupwDI iks nUM id`qI geI?</text>
+		<answer>syvw Aqy isdk dy prp`k gurU Gr dy pRymI srdwr kpUr isMG nUM nvwb dI aupwDI nwl invwijAw igAw[</answer>
+	</question>
+	<question id="284">
+		<text>nvwb kpUr isMG dI srpRsqI ADIn isMGW ny kI-kI m`lW mwrIAW?</text>
+		<answer>nvwb kpUr isMG dI ingrwnI hyT, iKMifAw hoieAw ^wlsw pMQ iek SkqISwlI j`QybMdI dy rUp iv`c sMgiTq hoieAw; bu`Fw dl dy XqnW sdkw hzwrW pRwxI AMimRq Ck ky ^wlsw pMQ iv`c Swiml ho gey; au~jVy hoey isMGW dy muV bsyry hoey Aqy lok ^uShwlI BirAw jIvn ijaUx l`gy[</answer>
+	</question>
+	<question id="285">
+		<text>srdwr j`sw isMG AwhlUvwlIAw kOx sI?</text>
+		<answer>srdwr j`sw isMG AwhlUvwlIAw is`KW dy mhwn jrnYl hoey ijhnW nUM bMdI CoV Aqy sulqwn-ey-kOm dI aupwDI imlI[</answer>
+	</question>
+	<question id="286">
+		<text>v`fw G`lUGwrw kdoN vwpirAw?</text>
+		<answer>5 PrvrI 1762 eIsvI nUM Ahmd Swh AbdwlI v`loN kopkhIVy ivKy isMGW qy hmlw kIqw igAw ijs iv`c 10000 qoN izAwdw isMG isMGxIAW Aqy b`cy ShId hoey[</answer>
+	</question>
+	<question id="287">
+		<text>hirmMdr swihb nUM brUd nwl pihlI vwr iksny aufwieAw?</text>
+		<answer>10 ApRYl 1762 eIsvI nUM Ahmd Swh AbdwlI ny hirmMdr swihb nUM brUd nwl aufw id`qw Aqy srovr nUM kUVy-krkt nwl pUr id`qw[</answer>
+	</question>
+	<question id="288">
+		<text>hirmMdr swihb dI muV auswrI iks ny krvweI?</text>
+		<answer>j`sw isMG AwhlUvwlIAw ny ies dw nINh p`Qr r`iKAw Aqy ipMf surisMG invwsI dysrwj dI ingrwnI hyT muV auswrI hoeI[</answer>
+	</question>
+	<question id="289">
+		<text>m`sw rMGV kOx sI Aqy ausny kI kIqw?</text>
+		<answer>zkrIAw ^wn dI hkUmq vyly, m`sw rMGV AMimRqsr dw muKI sI is`KW dw p`kw vYrI sI Aqy roz 100 is`KW dy isr v`F ky g`fy au~pr l`d ky lhOr Byjdw sI[ ausny hirmMdr swihb nUM nwcGr Aqy Srwb dw A`fw bxw r`iKAw sI[</answer>
+	</question>
+	<question id="290">
+		<text>m`sy rMGV dy Aijhy rv`vIey dw is`KW ny ikvyN jvwb id`qw?</text>
+		<answer>m`sy rMGV nUM BweI su`Kw isMG Aqy BweI mihqwb isMG ny mwr ky ausdw isr lwh ilAw[ lwhy isr nUM nyjy qy tMg ky boly so inhwl dy jYkwry lwauNdy rwjsQwn dy ryqly ielwky bu`Fy jOhV lY gey[</answer>
+	</question>
+	<question id="291">
+		<text>j`sw isMG rwmgVHIAw kOx sI?</text>
+		<answer>j`sw isMG rwmgVHIAw, rwmgVHIAw imsl dw srdwr sI Aqy is`K pMQ dw mhwn jrnYl sI[ auhnW ny is`K pMQ dI syvw dy nwl-nwl bhuq swry iklHy bxvwey ijhnW ivcoN rwm rOxI AMimRqsr mShUr hY ijsdw nW rwmgVH r`iKAw igAw Aqy iesy kr ky hI j`sw isMG dy nwm nwl rwmgVHIAw juV igAw[</answer>
+	</question>
+	<question id="292">
+		<text>bwbw dIp isMG kOx sn?</text>
+		<answer>bwbw dIp isMG gurU goibMd isMG jI dy smyN iek mhwn ivdvwn Aqy bhwdr joDy sn[ auhnW gurU goibMd isMG jI dy pwvn h`QW qoN AMimRq CikAw[ qlvMfI swhbo iv`c BweI mnI isMG jI dy nwl iml ky gurU gRMQ swihb jI dy auqwry vI auhnW ny hI kIqy[</answer>
+	</question>
+	<question id="293">
+		<text>sRI AMimRqsr swihb dy 5 mu`K srovrW dy nwm d`so?</text>
+		<answer>rwm sr
+kOl sr
+ibbyk sr
+sMqoK sr
+AMimRq sr</answer>
+	</question>
+	<question id="294">
+		<text>gurduAwrw PqihgVH swihb, ij`Qy gurU goibMd isMG jI dy Coty swihbjwidAW nUM nIhW ivc icixAw igAw sI, iks ny bxvwieAw?</text>
+		<answer>srdwr j`sw isMG AwhlUvwlIAw ny [</answer>
+	</question>
+	<question id="295">
+		<text>id`lI nim`q gurduAwry iks ny bxvwey?</text>
+		<answer>id`lI dy pRmu`K gurduAwry cWdnI cONk, bMglw swihb, rkwbgMj, Awid srdwr bGyl isMG ny bxvwey[</answer>
+	</question>
+	<question id="296">
+		<text>id`lI dw auh bwzwr ijs nUM A`j vI qIs hzwrI kihMdy hn, ikauN mShUr hY?</text>
+		<answer>srdwr bGyl isMG ny 30,000 &amp;OjI jvwnW nwl id`lI qy hmlw kIqw Aqy ijs jgHw qy &amp;Oj ny fyry lwey aus nUM qIs hjwrI ikhw jWdw hY[</answer>
+	</question>
+	<question id="297">
+		<text>mhwrwjw rxjIq isMG nUM Syr-ey-pMjwb ikauN ikhw jWdw hY?</text>
+		<answer>mhwrwjw rxjIq isMG iek bhwdr, sUrbIr, Aqy idAwnq dwr rwjw sI[ AwpxI ies Xogqw kr ky sqluj qoN kwbul-kMDwr qk is`K rwj kwiem krn ivc s&amp;l hoieAw[ iesy kr ky aus nUM Syr-ey-pMjwb dw i^qwb imilAw[</answer>
+	</question>
+	<question id="298">
+		<text>mhwrwjw rxjIq isMG dI ijMdgI ivc iks dw mu`K pRBwv sI ijs ny ausnUM ieMnw mhwn bxwieAw?</text>
+		<answer>mhwrwjw rxjIq isMG dI s`s sdw kOr jo mhwrwxI mihqwb kOr dI mW sI, dy suXog-slwh kr ky mhwrwjw rxjIq isMG qr`kI dI pOVI cVHdw iSKr qy jw phuMicAw[</answer>
+	</question>
+	<question id="299">
+		<text>mhwrwjw rxjIq isMG dIAW mihqwb kOr qoN ielwvw do pqnIAW dy nwm d`so  ijhnW nUM SwhI Grwxy ivc A`j q`k jwixAw jWdw hY?</text>
+		<answer>mhwrwxI rwj kOr Aqy mhwrwxI ijMdW kOr[</answer>
+	</question>
+	<question id="300">
+		<text>mhwrwjw rxjIq isMG dy pu`qrW dy nW d`so?</text>
+		<answer>Syr isMG Aqy qwrw isMG, mihqwb kOr qoN; KVk isMG, rwj kOr qoN; dlIp isMG, ijMdW kOr qoN[</answer>
+	</question>
+	<question id="301">
+		<text>mhwrwjw rxjIq isMG nUM kohInUr hIrw iks ny ByNt kIqw?</text>
+		<answer>kwbul dy rwjy Swh suzwq dI rwxI ny kohInUr hIrw mhwrwjw rxjIq isMG nUM audoN ByNt kIqw jdoN ausny rwxI nUM kSmIr dy rwjy dI kYd ivcoN CufvwieAw[</answer>
+	</question>
+</questions>
