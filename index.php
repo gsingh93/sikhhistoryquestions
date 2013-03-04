@@ -78,7 +78,7 @@
       </div>
       </div>
       <div id="footer">
-	<p>Please contact Gulshan Singh at gsingh2011@gmail.com for any questions, comments, or errors.</p>
+	<p>Please contact Gulshan Singh at gsingh2011@gmail.com for any questions, comments, or corrections.</p>
       </div>
     </body>
 </html>
