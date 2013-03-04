@@ -48,6 +48,10 @@
       <script>
 	$(function() {
 	  $("#selectable").selectable();
+	  $("#selectable").selectable( "option", "autoRefresh", false);
+	  $("#selectable").on( "selectableselecting", function( event, ui ) {
+	    $(ui.selecting).addClass("ui-selecting").siblings().removeClass("ui-selecting");
+	  });
 	});
       </script>
 
