@@ -8,6 +8,10 @@
     padding: 0;
 }
 
+html, body {
+    height: 100%;
+}
+
 body {
     background-color: #f1f1f1;
     color: #363636;
@@ -53,10 +57,11 @@ body {
 }
 
 #header_inner {
+    height: 150px;
+    line-height: 150px;
     font-size: 42px;
     font-weight: 700;
     text-shadow: #111 0px 0px 10px;
-    padding: 50px;
     margin: 0 auto;
     font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 }
