@@ -7,7 +7,7 @@
 	  #selectable .ui-selecting { background: #FECA40; }
 	  #selectable .ui-selected { background: #F39814; color: white; }
 	  #selectable { position: absolute; top: 150px; bottom: 0; list-style-type: none; float: left; background: white; width: 200px; border-right: 1px solid grey;}
-	  #selectable li { padding: 5px 20px; font-family: "Arial"; }
+	  #selectable li { padding: 5px 20px; font-family: "Arial"; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
 	</style>
     </head>
     <body>
@@ -17,7 +17,7 @@
 	</div>
       </div>
       <ol id="selectable">
-	<li class="ui-widget-content">Item 1</li>
+	<li class="ui-widget-content">Item 1 Really long text that won't fit and shoud be ellipsized</li>
 	<li class="ui-widget-content">Item 2</li>
 	<li class="ui-widget-content">Item 3</li>
 	<li class="ui-widget-content">Item 4</li>
