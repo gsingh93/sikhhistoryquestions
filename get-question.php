@@ -10,7 +10,7 @@ $row = $result->fetch_row();
 $num_rows = (int) $row[0];
 
 // Get the question ID to display
-if (isset($_POST['id'])) {
+if ($_POST['id'] != -1) {
   $id = (int) $_POST['id'];
 
   // Check if the supplied ID is valid

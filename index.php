@@ -25,7 +25,7 @@
       </ol>
       <div id="container">
 	<p>
-	  Click random question for a new random Sikh history question. The answer will be hidden until you click "Show Answer". If you want to go to a specific question, you will have to save the question number yourself and type the number in the "Specific Question" text box.
+	  Click random question for a new random Sikh history question. The answer will be hidden until you click "Show Answer".
 	</p>
 	<br>
 	<div id="question-wrap">
@@ -47,28 +47,43 @@
       <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
       <script>
 	$(function() {
-	  $("#selectable").selectable();
-	  $("#selectable").selectable( "option", "autoRefresh", false);
-	  $("#selectable").on( "selectableselecting", function( event, ui ) {
-	    $(ui.selecting).addClass("ui-selecting").siblings().removeClass("ui-selecting");
+	  $("#selectable").selectable({
+	    stop: function() {
+              $(".ui-selected").each(function() {
+	         var index = $("#selectable li").index(this);
+	         getQuestion(index + 1);
+       	      });
+      	    }});
+
+	  $("#selectable").on("selectableselected", function( event, ui ) {
+	     $(ui.selected).addClass("ui-selected").siblings().removeClass("ui-selected");
 	  });
 	});
-      </script>
 
-      <script type="text/javascript">
 	function showAnswer() {
 	  var answer = document.getElementById("answer");
 	  answer.style.visibility = "visible";
 	}
 	
 	function getQuestion() {
+	  getQuestion(-1);
+	}
+	function getQuestion(index) {
 	  answer.style.visibility = "hidden";
  	  $('#question').html('<span style="font-family: Arial">Loading question...</span>');
-	  $.post("/sikhhistoryquestions/get-question.php", function(data) {
+          $.ajax({url: "/sikhhistoryquestions/get-question.php", type: "POST", data: "id=" + index, success: function(data) {
 	    data = $.parseJSON(data);
+
+	    var container = $('#selectable');
+	    var scrollTo = $("#selectable li").eq(data._id - 1);
+	    scrollTo.addClass('ui-selected').siblings().removeClass('ui-selected');
+	    container.animate({
+    	      scrollTop: scrollTo.offset().top - container.offset().top + container.scrollTop()
+	    });
+    
 	    $('#question').html(data._id + ". " + data.question);
 	    $('#answer').html(data.answer);
-	  });
+	  }});
 	}
 
 	var _gaq = _gaq || [];
