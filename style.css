@@ -23,10 +23,14 @@ body {
     line-height: 1.5em;
 }
 
-#question {
+#question-wrap {
     min-height: 100px;
     font-family: 'GurbaniWebThick';
     text-align: center;
+}
+
+#question {
+    margin-bottom: 30px;
 }
 
 #answer {
