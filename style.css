@@ -66,6 +66,35 @@ body {
     font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 }
 
+#selectable .ui-selecting {
+    background:#FECA40;
+}
+
+#selectable .ui-selected {
+    background:#F39814;
+    color:#FFF;
+}
+
+#selectable {
+    position:absolute;
+    top:150px;
+    bottom:0;
+    list-style-type:none;
+    float:left;
+    background:#FFF;
+    width:250px;
+    border-right:1px solid grey;
+    overflow-y:auto;
+}
+
+#selectable li {
+    font-family:GurbaniWebThick;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    overflow-x:hidden;
+    padding:5px 15px;
+}
+
 .answer-button {
     -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
     -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;

@@ -3,12 +3,6 @@
     <head>
       <title>Sikh History Questions</title>
       <link rel="stylesheet" type="text/css" href="style.css">
-        <style>
-	  #selectable .ui-selecting { background: #FECA40; }
-	  #selectable .ui-selected { background: #F39814; color: white; }
-	  #selectable { position: absolute; top: 150px; bottom: 0; list-style-type: none; float: left; background: white; width: 200px; border-right: 1px solid grey;}
-	  #selectable li { padding: 5px 20px; font-family: "Arial"; text-overflow: ellipsis; white-space: nowrap; overflow: hidden;}
-	</style>
     </head>
     <body>
       <div id="header">
@@ -16,14 +10,18 @@
 	  Sikh History Questions
 	</div>
       </div>
+      <?php
+      // Connect to the database
+      require_once('config.php');	
+      $mysqli = new mysqli($config['host'], $config['user'], $config['password'], $config['database']);
+
+      // Get the number of questions
+      $result = $mysqli->query("SELECT * FROM questions");
+      ?>
       <ol id="selectable">
-	<li class="ui-widget-content">Item 1 Really long text that won't fit and shoud be ellipsized</li>
-	<li class="ui-widget-content">Item 2</li>
-	<li class="ui-widget-content">Item 3</li>
-	<li class="ui-widget-content">Item 4</li>
-	<li class="ui-widget-content">Item 5</li>
-	<li class="ui-widget-content">Item 6</li>
-	<li class="ui-widget-content">Item 7</li>
+	<?php while ($row = $result->fetch_assoc()): ?>
+	  <li class="ui-widget-content"><?php echo $row['_id'] . '. ' . $row['question']; ?></li>
+	<?php endwhile; ?>
       </ol>
       <div id="container">
 	<p>
@@ -64,7 +62,7 @@
  	  $('#question').html('<span style="font-family: Arial">Loading question...</span>');
 	  $.post("/sikhhistoryquestions/get-question.php", function(data) {
 	    data = $.parseJSON(data);
-	    $('#question').html(data.question);
+	    $('#question').html(data._id + ". " + data.question);
 	    $('#answer').html(data.answer);
 	  });
 	}
