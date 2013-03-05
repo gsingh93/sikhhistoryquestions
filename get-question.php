@@ -9,6 +9,17 @@ $result = $mysqli->query("SELECT COUNT(*) FROM questions");
 $row = $result->fetch_row();
 $num_rows = (int) $row[0];
 
+$min = $_POST['min'];
+$max = $_POST['max'];
+
+if ($min < 1 || $min > $num_rows) {
+  $min = 1;
+} 
+
+if ($max < 1 || $max > $num_rows) {
+  $max = $num_rows;
+}
+
 // Get the question ID to display
 if ($_POST['id'] != -1) {
   $id = (int) $_POST['id'];
@@ -16,11 +27,11 @@ if ($_POST['id'] != -1) {
   // Check if the supplied ID is valid
   if ($id < 1 || $id > $num_rows) {
     // If not valid, get a random ID
-    $id = rand(1, $num_rows);
+    $id = rand($min, $max);
   }
 } else {
   // If no ID was supplied, get a random ID
-  $id = rand(1, $num_rows);
+  $id = rand($min, $max);
 }
 
 // Get the question 

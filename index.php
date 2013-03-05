@@ -17,6 +17,7 @@
 
       // Get the number of questions
       $result = $mysqli->query("SELECT * FROM questions");
+      $num_rows = $result->num_rows;
       ?>
       <ol id="selectable">
 	<?php while ($row = $result->fetch_assoc()): ?>
@@ -32,9 +33,13 @@
 	  <div id="question"></div>
 	  <div id="answer"></div>
 	</div>
-	<div style="text-align: center">
+	<div class="buttons">
 	  <button class="answer-button" onclick="showAnswer()">Show Answer</button>
-	  <button class="answer-button" onclick="getQuestion()">Random Question</button>
+	  <button class="answer-button" onclick="getQuestion(-1)">Random Question</button><br>
+	  <br>
+	  <form id="range">
+	    Question Range: <input name="min" size="4" type="text" value="1"> to <input name="max" size="4" type="text" value="<?php echo $num_rows; ?>">
+	  </form>
 	</div>
       </div>
       <div id="footer">
@@ -65,13 +70,11 @@
 	  answer.style.visibility = "visible";
 	}
 	
-	function getQuestion() {
-	  getQuestion(-1);
-	}
 	function getQuestion(index) {
 	  answer.style.visibility = "hidden";
  	  $('#question').html('<span style="font-family: Arial">Loading question...</span>');
-          $.ajax({url: "/sikhhistoryquestions/get-question.php", type: "POST", data: "id=" + index, success: function(data) {
+	  dataString = "id=" + index + "&" + $("#range").serialize();
+          $.ajax({url: "/sikhhistoryquestions/get-question.php", type: "POST", data: dataString, success : function(data) {
 	    data = $.parseJSON(data);
 
 	    var container = $('#selectable');
@@ -97,7 +100,7 @@
 	})();
 
 	// Initial call to getQuestion when page is ready
-	$(getQuestion());
+	$(getQuestion(-1));
       </script>
     </body>
 </html>
