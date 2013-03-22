@@ -37,7 +37,7 @@
       </ol>
       <div id="container">
 	<p>
-	  Click random question for a new random Sikh history question. The answer will be hidden until you click "Show Answer".
+	  Click random question for a new random Sikh history question. The answer will be hidden until you click "Show Answer". If this site does not display correctly or does not seem to be working correctly for you, please update your browser.
 	</p>
 	<br>
 	<div id="question-wrap">
