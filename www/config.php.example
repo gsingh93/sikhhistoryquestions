@@ -1,0 +1,8 @@
+<?php
+$config = array();
+$config['host'] = '';
+$config['user'] = '';
+$config['passwd'] = '';
+$config['db'] = '';
+$config['table'] = '';
+?>
