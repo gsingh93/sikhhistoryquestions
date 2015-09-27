@@ -36,7 +36,7 @@ function getQuestion(index) {
             data = $.parseJSON(data);
 
             var container = $('#selectable');
-            var scrollTo = $("#selectable li").eq(data._id);
+            var scrollTo = $("#selectable li").eq(data._id - 1);
             scrollTo.addClass('ui-selected').siblings().removeClass('ui-selected');
             container.animate({
                 scrollTop: scrollTo.offset().top - container.offset().top + container.scrollTop()
