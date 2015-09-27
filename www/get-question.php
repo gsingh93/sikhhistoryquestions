@@ -23,7 +23,7 @@ if ($max < 1 || $max > $num_rows) {
 // Get the question ID to display
 if ($_POST['id'] != -1) {
     // Not sure if the escape is necessary, but better safe than sorry
-    $id = (int) mysql_real_escape_string($_POST['id']);
+    $id = (int) $mysqli->real_escape_string($_POST['id']);
 
     // Check if the supplied ID is valid
     if ($id < 1 || $id > $num_rows) {
