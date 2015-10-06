@@ -62,7 +62,7 @@ def main():
                 if answer != '':
                     add_question(question, answer)
                     answer = ''
-                elif cur_num != 1: #TODO
+                elif cur_num != 1:
                     print 'Question %d missing answer' % (cur_num - 1)
 
                 question = m.group(2).strip()
